@@ -11,9 +11,9 @@ repository.
 
 ### Multi-omics correlation analysis
 
-- 2009 - [Sparse mCCA](https://cran.r-project.org/web/packages/PMA/index.html) - [paper 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2697346/) [paper 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2861323/)
+- 2009 - [Sparse mCCA](https://cran.r-project.org/web/packages/PMA/index.html) - [paper 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2697346/), [paper 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2861323/)
 - 2010 - **Regularized dual CCA** - [paper](https://doi.org/10.1186/1471-2105-11-191)
-- 2013 - [JIVE](https://genome.unc.edu/jive/) - joint & individual variance explained [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671601/)
+- 2013 - [JIVE](https://genome.unc.edu/jive/) - joint & individual variance explained - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671601/)
 - 2014 - [MCIA](https://bioconductor.org/packages/omicade4) - multiple co-interia analysis - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053266/)
 - 2014 - [RGCCA](https://cran.r-project.org/web/packages/RGCCA/index.html) - Regularized generalized CCA - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24550197)
 - 2016 - **Bayesian group factor analysis** - [paper](https://arxiv.org/abs/1411.2698)
@@ -23,6 +23,7 @@ repository.
 - 2018 - [AJIVE](https://github.com/idc9/r_jive) - angle-based JIVE - [paper](https://arxiv.org/abs/1704.02060)
 - 2018 - [MOFA](https://github.com/bioFAM/MOFA) - multi-omics factor analysis - [paper](http://msb.embopress.org/content/14/6/e8124)
 - 2018 - [PCA+CCA](https://github.com/pachterlab/PCACCA/) - [paper](https://www.biorxiv.org/content/early/2018/07/09/364448)
+- ...
 
 ### Multi-omics classification
 
