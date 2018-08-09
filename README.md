@@ -17,7 +17,7 @@ repository.
 - 2014 - [MCIA](https://bioconductor.org/packages/omicade4) - multiple co-interia analysis - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053266/)
 - 2014 - [RGCCA](https://cran.r-project.org/web/packages/RGCCA/index.html) - Regularized generalized CCA - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24550197)
 - 2016 - **Bayesian group factor analysis** - [paper](https://arxiv.org/abs/1411.2698)
-- 2016 - [Multi-study factor analysis](https://github.com/rdevito/MSFA) - unlike the other methods here, this is for same feature, different samples - [paper](https://arxiv.org/abs/1611.06350)
+- 2016 - [MSFA](https://github.com/rdevito/MSFA) - multi-study factor analysis, unlike the other methods here, this is for same feature, different samples - [paper](https://arxiv.org/abs/1611.06350)
 - 2016 - [MoGSA](https://bioconductor.org/packages/mogsa) - [paper](https://www.biorxiv.org/content/early/2016/04/03/046904)
 - 2017 - [mixOmics](https://cran.r-project.org/web/packages/mixOmics/index.html) - [paper](https://doi.org/10.1371/journal.pcbi.1005752)
 - 2018 - [AJIVE](https://github.com/idc9/r_jive) - angle-based JIVE - [paper](https://arxiv.org/abs/1704.02060)
