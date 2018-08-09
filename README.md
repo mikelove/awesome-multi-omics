@@ -32,6 +32,11 @@ repo.
 - 2014 - [SNF](http://compbio.cs.toronto.edu/SNF/SNF/Software.html) - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24464287)
 - ...
 
+### Integrating multi-omics measured in separate samples
+
+- 2018 - [cardelino](https://github.com/PMBio/cardelino) - assign gene expression states to clones by integrating SNVs from scRNA-seq with bulk exome data
+- 2018 - [clonealign](https://github.com/kieranrcampbell/clonealign) - assign gene expression states to clones by integrating scRNA-seq with scDNA-seq (CNV) data - [paper](https://www.biorxiv.org/content/early/2018/06/11/344309)
+
 ## Multi-omics reviews / evaluations
 
 - 2014 - [A practical data processing workflow for multi-OMICS projects](https://doi.org/10.1016/j.bbapap.2013.02.029)
