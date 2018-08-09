@@ -1,9 +1,9 @@
 # awesome-multi-omics
 
-List of software packages for multi-omics data analysis. It is a
+List of software packages for multi-omics data analysis. A
 shameless clone of Sean Davis'
 [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
-repository.
+repo.
 
 [Contributions welcome](https://github.com/mikelove/awesome-multi-omics/blob/master/CONTRIBUTING.md)...
 
