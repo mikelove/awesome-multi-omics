@@ -18,7 +18,7 @@ repo.
 - 2014 - [RGCCA](https://cran.r-project.org/web/packages/RGCCA/index.html) - Regularized generalized CCA - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24550197)
 - 2016 - **Bayesian group factor analysis** - [paper](https://arxiv.org/abs/1411.2698)
 - 2016 - [MSFA](https://github.com/rdevito/MSFA) - multi-study factor analysis, unlike the other methods here, this is for same feature, different samples - [paper](https://arxiv.org/abs/1611.06350)
-- 2016 - [MoGSA](https://bioconductor.org/packages/mogsa) - [paper](https://www.biorxiv.org/content/early/2016/04/03/046904)
+- 2016 - [moGSA](https://bioconductor.org/packages/mogsa) - [paper](https://www.biorxiv.org/content/early/2016/04/03/046904)
 - 2017 - [mixOmics](https://cran.r-project.org/web/packages/mixOmics/index.html) - [paper](https://doi.org/10.1371/journal.pcbi.1005752)
 - 2018 - [AJIVE](https://github.com/idc9/r_jive) - angle-based JIVE - [paper](https://arxiv.org/abs/1704.02060)
 - 2018 - [MOFA](https://github.com/bioFAM/MOFA) - multi-omics factor analysis - [paper](http://msb.embopress.org/content/14/6/e8124)
@@ -41,6 +41,7 @@ repo.
 
 - 2014 - [A practical data processing workflow for multi-OMICS projects](https://doi.org/10.1016/j.bbapap.2013.02.029)
 - 2016 - [Multi-omic data integration enables discovery of hidden biological regularities](https://www.nature.com/articles/ncomms13091)
+- 2016 - [Dimension reduction techniques for the integrative analysis of multi-omics data](https://doi.org/10.1093/bib/bbv108) - from *omicade4* and *moGSA* authors
 - 2017 - [More Is Better: Recent Progress in Multi-Omics Data Integration Methods](https://doi.org/10.3389/fgene.2017.00084)
 - 2017 - [Multi-omics approaches to disease](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1215-1)
 - 2018 - [MOVIE: Multi-Omics VIsualization of Estimated contributions](https://www.biorxiv.org/content/early/2018/07/29/379115) - [code](https://github.com/mccabes292/movie)
