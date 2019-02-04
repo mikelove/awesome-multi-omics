@@ -17,7 +17,7 @@ repo.
 - 2013 - [JIVE](https://genome.unc.edu/jive/) - joint & individual variance explained - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671601/)
 - 2014 - [MCIA](https://bioconductor.org/packages/omicade4) - multiple co-interia analysis - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053266/)
 - 2014 - [RGCCA](https://cran.r-project.org/web/packages=RGCCA) - Regularized generalized CCA - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24550197)
-- 2014 - [STATegRa](https://bioconductor.org/packages/STATegRa) DISCO, JIVE and O2PLS methods (there are several papers)
+- 2014 - [STATegRa](https://bioconductor.org/packages/STATegRa) - DISCO, JIVE and O2PLS methods (there are several papers)
 - 2016 - **Bayesian group factor analysis** - [paper](https://arxiv.org/abs/1411.2698)
 - 2016 - [MSFA](https://github.com/rdevito/MSFA) - multi-study factor analysis, unlike the other methods here, this is for same feature, different samples - [paper](https://arxiv.org/abs/1611.06350)
 - 2016 - [moGSA](https://bioconductor.org/packages/mogsa) - [paper](https://www.biorxiv.org/content/early/2016/04/03/046904)
