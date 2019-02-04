@@ -14,7 +14,6 @@ repo.
 
 - 2009 - [Sparse mCCA](https://CRAN.r-project.org/package=PMA) - [paper 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2697346/), [paper 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2861323/)
 - 2010 - **Regularized dual CCA** - [paper](https://doi.org/10.1186/1471-2105-11-191)
-- 2012 - [NMF](https://cran.r-project.org/web/package=NMF) - Nonnegative Matrix Factorization [paper](http://www.biomedcentral.com/1471-2105/11/367) Another implementation: [NNLM](https://cran.r-project.org/web/package=NNLM)
 - 2013 - [JIVE](https://genome.unc.edu/jive/) - joint & individual variance explained - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671601/)
 - 2014 - [MCIA](https://bioconductor.org/packages/omicade4) - multiple co-interia analysis - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053266/)
 - 2014 - [RGCCA](https://cran.r-project.org/package=RGCCA) - Regularized generalized CCA - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24550197)
