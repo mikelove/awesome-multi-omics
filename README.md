@@ -23,7 +23,7 @@ repo.
 - 2016 - [moGSA](https://bioconductor.org/packages/mogsa) - [paper](https://www.biorxiv.org/content/early/2016/04/03/046904)
 - 2017 - [mixOmics](https://bioconductor.org/packages/mixOmics) - [paper](https://doi.org/10.1371/journal.pcbi.1005752)
 - 2018 - [AJIVE](https://github.com/idc9/r_jive) - angle-based JIVE - [paper](https://arxiv.org/abs/1704.02060)
-- 2018 - [MOFA](https://github.com/bioFAM/MOFA) - multi-omics factor analysis - [paper](http://msb.embopress.org/content/14/6/e8124)
+- 2018 - [MOFA](https://github.com/bioFAM/MOFA) - multi-omics factor analysis - [paper](http://msb.embopress.org/content/14/6/e8124) [application](https://www.biorxiv.org/content/10.1101/519207v1)
 - 2018 - [PCA+CCA](https://github.com/pachterlab/PCACCA/) - [paper](https://www.biorxiv.org/content/early/2018/07/09/364448)
 - ...
 
