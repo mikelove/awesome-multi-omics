@@ -24,7 +24,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2014 - [RGCCA](https://cran.r-project.org/package=RGCCA) - Tenenhaus - Regularized generalized CCA - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24550197)
 - 2014 - [STATegRa](https://bioconductor.org/packages/STATegRa) - Gomez-Cabrero - DISCO, JIVE, & O2PLS (several papers)
 - 2014 - **Joint Factor Model** - Ray - [paper](https://doi.org/10.1093/bioinformatics/btu064)
-- 2016 - **Bayesian group factor analysis** - [paper](https://arxiv.org/abs/1411.2698)
+- 2016 - **Bayesian group factor analysis** - Zhao - [paper](https://arxiv.org/abs/1411.2698)
 - 2016 - [MSFA](https://github.com/rdevito/MSFA) - De Vito - multi-study factor analysis: same features, different samples - [paper](https://arxiv.org/abs/1611.06350)
 - 2016 - [moGSA](https://bioconductor.org/packages/mogsa) - Meng - multi-omics gene set analysis - [paper](https://www.biorxiv.org/content/10.1101/046904v2)
 - 2016 - [iNMF](https://github.com/yangzi4/iNMF) - Yang - integrative NMF - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26377073/)
