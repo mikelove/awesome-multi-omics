@@ -1,40 +1,41 @@
 # awesome-multi-omics
 
 List of software packages for multi-omics data analysis. A
-shameless clone of Sean Davis'
+shameless copy of Sean Davis'
 [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
 repo.
 
 [Contributions welcome](https://github.com/mikelove/awesome-multi-omics/blob/master/CONTRIBUTING.md)...
 
-## Software packages and methods
+For brevity, below lists only the first author of multi-omics methods.
 
+## Software packages and methods
 
 ### Multi-omics correlation analysis
 
-- 2007 - **SCCA** - [paper 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2367499/) [paper 2](https://doi.org/10.2202/1544-6115.1406) 
-- 2008 - **PCCA** - [paper](https://doi.org/10.2202/1544-6115.1329)
-- 2009 - [Sparse mCCA](https://CRAN.r-project.org/package=PMA) - [paper 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2697346/), [paper 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2861323/)
-- 2009 - **sPLS** - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2640358/)
-- 2010 - **Regularized dual CCA** - [paper](https://doi.org/10.1186/1471-2105-11-191)
-- 2013 - [JIVE](https://genome.unc.edu/jive/) - joint & individual variance explained - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671601/)
-- 2014 - [MCIA](https://bioconductor.org/packages/omicade4) - multiple co-interia analysis - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053266/)
-- 2014 - [RGCCA](https://cran.r-project.org/package=RGCCA) - Regularized generalized CCA - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24550197)
-- 2014 - [STATegRa](https://bioconductor.org/packages/STATegRa) - DISCO, JIVE and O2PLS methods (there are several papers)
+- 2007 - **SCCA** - Parkhomenko - [paper 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2367499/), [paper 2](https://doi.org/10.2202/1544-6115.1406) 
+- 2008 - **PCCA** - Waaijenborg - [paper](https://doi.org/10.2202/1544-6115.1329)
+- 2009 - [Sparse mCCA](https://CRAN.r-project.org/package=PMA) - Witten - [paper 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2697346/), [paper 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2861323/)
+- 2009 - **sPLS** - Lê Cao - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2640358/)
+- 2010 - **Regularized dual CCA** - Soneson - [paper](https://doi.org/10.1186/1471-2105-11-191)
+- 2013 - [JIVE](https://genome.unc.edu/jive/) - Lock - joint & individual variance explained - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671601/)
+- 2014 - [MCIA](https://bioconductor.org/packages/omicade4) - Meng - multiple co-interia analysis - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053266/)
+- 2014 - [RGCCA](https://cran.r-project.org/package=RGCCA) - Tenenhaus - Regularized generalized CCA - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24550197)
+- 2014 - [STATegRa](https://bioconductor.org/packages/STATegRa) - Gomez-Cabrero - DISCO, JIVE and O2PLS methods (there are several papers)
 - 2016 - **Bayesian group factor analysis** - [paper](https://arxiv.org/abs/1411.2698)
-- 2016 - [MSFA](https://github.com/rdevito/MSFA) - multi-study factor analysis, unlike the other methods here, this is for same feature, different samples - [paper](https://arxiv.org/abs/1611.06350)
-- 2016 - [moGSA](https://bioconductor.org/packages/mogsa) - [paper](https://www.biorxiv.org/content/early/2016/04/03/046904)
-- 2017 - [mixOmics](https://bioconductor.org/packages/mixOmics) - [paper](https://doi.org/10.1371/journal.pcbi.1005752)
-- 2018 - [AJIVE](https://github.com/idc9/r_jive) - angle-based JIVE - [paper](https://arxiv.org/abs/1704.02060)
-- 2018 - [MOFA](https://github.com/bioFAM/MOFA) - multi-omics factor analysis - [paper](http://msb.embopress.org/content/14/6/e8124), [application](https://www.biorxiv.org/content/10.1101/519207v1)
-- 2018 - [PCA+CCA](https://github.com/pachterlab/PCACCA/) - [paper](https://www.biorxiv.org/content/early/2018/07/09/364448)
+- 2016 - [MSFA](https://github.com/rdevito/MSFA) - De Vito - multi-study factor analysis, unlike the other methods here, this is for same feature, different samples - [paper](https://arxiv.org/abs/1611.06350)
+- 2016 - [moGSA](https://bioconductor.org/packages/mogsa) - Meng - [paper](https://www.biorxiv.org/content/early/2016/04/03/046904)
+- 2017 - [mixOmics](https://bioconductor.org/packages/mixOmics) - Rohart - [paper](https://doi.org/10.1371/journal.pcbi.1005752)
+- 2018 - [AJIVE](https://github.com/idc9/r_jive) - Feng - angle-based JIVE - [paper](https://arxiv.org/abs/1704.02060)
+- 2018 - [MOFA](https://github.com/bioFAM/MOFA) - Argelaguet - multi-omics factor analysis - [paper](http://msb.embopress.org/content/14/6/e8124), [application](https://www.biorxiv.org/content/10.1101/519207v1)
+- 2018 - [PCA+CCA](https://github.com/pachterlab/PCACCA/) - Brown - [paper](https://www.biorxiv.org/content/early/2018/07/09/364448)
 - ...
 
 ### Multi-omics classification
 
-- 2009 - [iCluster](https://cran.r-project.org/package=iCluster) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800366/)
-- 2013 - [iCluster+](https://bioconductor.org/packages/iClusterPlus) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3600490/)
-- 2014 - [SNF](http://compbio.cs.toronto.edu/SNF/SNF/Software.html) - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24464287)
+- 2009 - [iCluster](https://cran.r-project.org/package=iCluster) - Shen - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800366/)
+- 2013 - [iCluster+](https://bioconductor.org/packages/iClusterPlus) - Mo - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3600490/)
+- 2014 - [SNF](http://compbio.cs.toronto.edu/SNF/SNF/Software.html) - Wang - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24464287)
 - ...
 
 ### Integrating multi-omics measured in separate samples
