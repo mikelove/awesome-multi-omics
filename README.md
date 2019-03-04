@@ -12,7 +12,9 @@ repo.
 
 ### Multi-omics correlation analysis
 
+- 2008 - **PCCA** - [paper](https://doi.org/10.2202/1544-6115.1329)
 - 2009 - [Sparse mCCA](https://CRAN.r-project.org/package=PMA) - [paper 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2697346/), [paper 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2861323/)
+- 2009 - **Adaptive SCCA** - [paper](https://doi.org/10.2202/1544-6115.1406) 
 - 2010 - **Regularized dual CCA** - [paper](https://doi.org/10.1186/1471-2105-11-191)
 - 2013 - [JIVE](https://genome.unc.edu/jive/) - joint & individual variance explained - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671601/)
 - 2014 - [MCIA](https://bioconductor.org/packages/omicade4) - multiple co-interia analysis - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053266/)
