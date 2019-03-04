@@ -8,12 +8,12 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Please search previous suggestions before making a new one, as yours
   may be a duplicate. 
-- Use the following format: YEAR - `[resource](link to software)` - FIRST AUTHOR LAST NAME -
+- Use the following format: YEAR - `[resource](link to software)` - FIRST AUTHOR LAST NAME - DESCRIPTION -
   `[paper](link to Open Access, PMC, PubMed, Europe PMC, or preprint)`.
 - For YEAR, use either the date of the publication, or if not yet
   published, the date of the preprint / software release.
 - Order projects chronologically within each category. 
-- Keep descriptions short and simple.
+- If adding a description at all, keep it < 6 words.
 - End all descriptions with a full stop/period.
 - Check your spelling and grammar.
 - New categories, or improvements to the existing categorization are
