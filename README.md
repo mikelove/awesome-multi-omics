@@ -11,7 +11,7 @@ For brevity, below lists only the first author of multi-omics methods.
 
 ## Software packages and methods
 
-### Multi-omics correlation analysis
+### Multi-omics correlation or factor analysis
 
 - 2007 - **SCCA** - Parkhomenko - sparse CCA - [paper 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2367499/), [paper 2](https://doi.org/10.2202/1544-6115.1406) 
 - 2008 - **PCCA** - Waaijenborg - penalized CCA / "CCA-EN" - [paper](https://doi.org/10.2202/1544-6115.1329)
