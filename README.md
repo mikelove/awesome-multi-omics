@@ -37,6 +37,12 @@ For brevity, below lists only the first author of multi-omics methods.
 - 1994 - **COI** - Doledec - Co‐inertia analysis - [paper](https://doi.org/10.1111/j.1365-2427.1994.tb01741.x)
 - 2007 - [ade4](https://CRAN.r-project.org/package=ade4) - Dray - Implementing the Duality Diagram for Ecologists - [paper](http://dx.doi.org/10.18637/jss.v022.i04)
 
+### Chemometrics multi-way data literature
+
+- 1987 - Wold - Multi‐way principal components‐and PLS‐analysis - [paper](https://doi.org/10.1002/cem.1180010107)
+- 1996 - Wold - Hierarchical multiblock PLS - [paper](https://doi.org/10.1002/(SICI)1099-128X(199609)10:5/6%3C463::AID-CEM445%3E3.0.CO;2-L)
+- 2003 - Trygg - O2‐PLS, a two‐block (X–Y) latent variable regression (LVR) - [paper](https://doi.org/10.1002/cem.775)
+
 ### Multi-omics classification
 
 - 2009 - [iCluster](https://cran.r-project.org/package=iCluster) - Shen - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800366/)
