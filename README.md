@@ -20,7 +20,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2009 - [RGSCA](https://CRAN.r-project.org/package=gesca) - Hwang - regularized generalized structured component analysis - [paper](https://doi.org/10.1007/s11336-009-9119-y) 
 - 2010 - **Regularized dual CCA** - Soneson - [paper](https://doi.org/10.1186/1471-2105-11-191)
 - 2012 - **Bayesian group factor analysis** - Virtanen - [paper](http://proceedings.mlr.press/v22/virtanen12.html)
-- 2012 - [STATIS/DiSTATIS]('https://github.com/HerveAbdi/DistatisR') - Abdi - translated as 'structuring three-way statistical tables' - [paper](https://doi.org/10.1002/wics.198)
+- 2012 - [STATIS/DiSTATIS](https://github.com/HerveAbdi/DistatisR) - Abdi - translated as 'structuring three-way statistical tables' - [paper](https://doi.org/10.1002/wics.198)
 - 2013 - [MFA](https://cran.r-project.org/package=FactoMineR) - Abdi - multiple factor analysis - [paper](https://doi.org/10.1002/wics.1246)
 - 2013 - [JIVE](https://genome.unc.edu/jive/) - Lock - joint & individual variance explained - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671601/)
 - 2014 - [MCIA](https://bioconductor.org/packages/omicade4) - Meng - multiple co-interia analysis - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053266/)
