@@ -96,3 +96,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2007 - Fagan - [A multivariate analysis approach to the integration of proteomic and gene expression data](https://doi.org/10.1002/pmic.200600898)
 - 2014 - Tomescu - [Integrative omics analysis. A study based on Plasmodium falciparum mRNA and protein data](https://doi.org/10.1186/1752-0509-8-S2-S4)
 - 2016 - Wan - [TCGA2STAT: simple TCGA data access for integrated statistical analysis in R](https://doi.org/10.1093/bioinformatics/btv677) - [R notebook](http://www.liuzlab.org/TCGA2STAT/)
+
+## Multi-omics data management
+
+- 2017 - [MultiAssayExperiment](https://bioconductor.org/packages/MultiAssayExperiment/) - Software for the integration of multi-omics experiments in Bioconductor - [paper](https://doi.org/10.1158/0008-5472.CAN-17-0344).
