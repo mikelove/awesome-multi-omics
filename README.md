@@ -37,6 +37,8 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2017 - [mixOmics](https://bioconductor.org/packages/mixOmics) - Rohart - [paper](https://doi.org/10.1371/journal.pcbi.1005752)
 - 2017 - [mixedCCA](https://github.com/irinagain/mixedCCA) - Gaynanova - sparse CCA for data of mixed types - [paper](https://arxiv.org/abs/1807.05274)
 - 2017 - [SLIDE](https://github.com/irinagain/SLIDE_Rpackage) - Gaynanova - Structural Learning and Integrative Decomposition of Multi-View Data - [paper](https://arxiv.org/abs/1707.06573)
+- 2017 - [fCCAC](https://github.com/pmb59/fCCAC/) - Madrigal - functional canonical correlation analysis to evaluate covariance - [paper](https://doi.org/10.1093/bioinformatics/btw724)
+- 2017 - [TSKCCA](https://github.com/kosyoshida/TSKCCA) - Yoshida - Sparse kernel canonical correlation analysis - [paper](https://doi.org/10.1186/s12859-017-1543-x)
 - 2018 - [AJIVE](https://github.com/idc9/r_jive) - Feng - angle-based JIVE - [paper](https://arxiv.org/abs/1704.02060)
 - 2018 - [MOFA](https://github.com/bioFAM/MOFA) - Argelaguet - multi-omics factor analysis - [paper](https://doi.org/10.15252/msb.20178124), [application](https://doi.org/10.1101/519207)
 - 2018 - [PCA+CCA](https://github.com/pachterlab/PCACCA/) - Brown - [paper](https://doi.org/10.1371/journal.pgen.1007841)
@@ -60,7 +62,9 @@ For brevity, below lists only the first author of multi-omics methods.
 
 - 2013 - Schouteden - DISCO SCA - distinctive and common components with simultaneous-component analysis- [paper 1](https://www.ncbi.nlm.nih.gov/pubmed/23361416), [paper 2](https://www.ncbi.nlm.nih.gov/pubmed/24178130)
 
-### Multi-omics classification / prediction
+### Multi-omics classification / prediction / regression
+
+*Note: I think that prediction of genomic tracks, e.g. ChIP-seq, from other genomic tracks is a large area of research that may deserve a separate repository. Below are methods for classification / prediction / regression of samples or outcomes.*
 
 - 2009 - [iCluster](https://cran.r-project.org/package=iCluster) - Shen - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800366/)
 - 2013 - [iCluster+](https://bioconductor.org/packages/iClusterPlus) - Mo - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3600490/)
