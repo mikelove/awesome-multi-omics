@@ -14,9 +14,7 @@ Please ensure your pull request adheres to the following guidelines:
   published, the date of the preprint / software release.
 - Order projects chronologically within each category. 
 - If adding a description at all, keep it < 6 words.
-- End all descriptions with a full stop/period.
 - Check your spelling and grammar.
-- New categories, or improvements to the existing categorization are
-  welcome. 
+- New categories, or improvements to the existing categorization are welcome. 
 
 Thank you for your suggestions!
