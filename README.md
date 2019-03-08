@@ -82,4 +82,4 @@ For brevity, below lists only the first author of multi-omics methods.
 
 ## Multi-omics application papers
 
-- 2016 - Wan - [TCGA2STAT: simple TCGA data access for integrated statistical analysis in R](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv677) [notebook](http://www.liuzlab.org/TCGA2STAT/)
+- 2016 - Wan - [TCGA2STAT: simple TCGA data access for integrated statistical analysis in R](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv677) - [R notebook](http://www.liuzlab.org/TCGA2STAT/)
