@@ -31,7 +31,6 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2015 - [CCAGFA](https://cran.r-project.org/package=CCAGFA) - Klami - Bayesian Canonical Correlation Analysis and Group Factor Analysis - [paper 1](https://doi.org/10.1109/TNNLS.2014.2376974), [paper 2](http://www.jmlr.org/papers/v18/16-509.html)
 - 2016 - [CMF](https://cran.r-project.org/package=CMF) - Klami - collective matrix factorization
 - 2016 - **Bayesian group factor analysis** - Zhao - [paper](https://arxiv.org/abs/1411.2698)
-- 2016 - [MSFA](https://github.com/rdevito/MSFA) - De Vito - multi-study factor analysis: same features, different samples - [paper](https://arxiv.org/abs/1611.06350)
 - 2016 - [moGSA](https://bioconductor.org/packages/mogsa) - Meng - multi-omics gene set analysis - [paper](https://doi.org/10.1101/046904)
 - 2016 - [iNMF](https://github.com/yangzi4/iNMF) - Yang - integrative NMF - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26377073/)
 - 2017 - [mixOmics](https://bioconductor.org/packages/mixOmics) - Rohart - [paper](https://doi.org/10.1371/journal.pcbi.1005752)
@@ -71,10 +70,14 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2014 - [SNF](http://compbio.cs.toronto.edu/SNF/SNF/Software.html) - Wang - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24464287)
 - 2019 - [IBOOST](http://dlin.web.unc.edu/software/iboost/) - Wong - [paper](https://doi.org/10.1186/s13059-019-1640-4)
 
-### Integrating multi-omics measured in separate samples
+### Single cell multi-omics
 
-- 2018 - [cardelino](https://github.com/PMBio/cardelino) - assign gene expression states to clones by integrating SNVs from scRNA-seq with bulk exome data
-- 2018 - [clonealign](https://github.com/kieranrcampbell/clonealign) - assign gene expression states to clones by integrating scRNA-seq with scDNA-seq (CNV) data - [paper](https://doi.org/10.1101/344309)
+- 2018 - [cardelino](https://github.com/PMBio/cardelino) - gene expression states to clones (SNVs from scRNA-seq + bulk exome data)
+- 2018 - [clonealign](https://github.com/kieranrcampbell/clonealign) - gene expression states to clones (scRNA-seq + scDNA-seq (CNV)) - [paper](https://doi.org/10.1101/344309)
+
+### Multi-study correlation or factor analysis
+
+- 2016 - [MSFA](https://github.com/rdevito/MSFA) - De Vito - multi-study factor analysis: same features, different samples - [paper](https://arxiv.org/abs/1611.06350)
 
 ## Multi-omics reviews / evaluations
 
