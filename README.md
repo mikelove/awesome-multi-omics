@@ -35,6 +35,8 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2016 - [moGSA](https://bioconductor.org/packages/mogsa) - Meng - multi-omics gene set analysis - [paper](https://www.biorxiv.org/content/10.1101/046904v2)
 - 2016 - [iNMF](https://github.com/yangzi4/iNMF) - Yang - integrative NMF - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26377073/)
 - 2017 - [mixOmics](https://bioconductor.org/packages/mixOmics) - Rohart - [paper](https://doi.org/10.1371/journal.pcbi.1005752)
+- 2017 - [mixedCCA](https://github.com/irinagain/mixedCCA) - Gaynanova - sparse CCA for data of mixed types - [paper](https://arxiv.org/abs/1807.05274)
+- 2017 - [SLIDE](https://github.com/irinagain/SLIDE_Rpackage) - Gaynanova - Structural Learning and Integrative Decomposition of Multi-View Data - [paper](https://arxiv.org/abs/1707.06573)
 - 2018 - [AJIVE](https://github.com/idc9/r_jive) - Feng - angle-based JIVE - [paper](https://arxiv.org/abs/1704.02060)
 - 2018 - [MOFA](https://github.com/bioFAM/MOFA) - Argelaguet - multi-omics factor analysis - [paper](http://msb.embopress.org/content/14/6/e8124), [application](https://www.biorxiv.org/content/10.1101/519207v1)
 - 2018 - [PCA+CCA](https://github.com/pachterlab/PCACCA/) - Brown - [paper](https://www.biorxiv.org/content/early/2018/07/09/364448)
