@@ -96,7 +96,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2007 - Fagan - [A multivariate analysis approach to the integration of proteomic and gene expression data](https://doi.org/10.1002/pmic.200600898)
 - 2014 - Tomescu - [Integrative omics analysis. A study based on Plasmodium falciparum mRNA and protein data](https://doi.org/10.1186/1752-0509-8-S2-S4)
 - 2016 - Wan - [TCGA2STAT: simple TCGA data access for integrated statistical analysis in R](https://doi.org/10.1093/bioinformatics/btv677) - [R notebook](http://www.liuzlab.org/TCGA2STAT/)
-- 2017 - Butler - [Integrating single-cell transcriptomic data across different conditions, technologies, and species.] (https://www.biorxiv.org/content/10.1101/164889v1)
+- 2017 - Butler - [Integrating single-cell transcriptomic data across different conditions, technologies, and species.](https://www.biorxiv.org/content/10.1101/164889v1)
 - 2018 - Skelly - [Reference trait analysis reveals correlations between gene expression and quantitative traits in disjoint samples](https://www.biorxiv.org/content/10.1101/489542v1) - [R notebook](https://daskelly.github.io/reference_traits/reference_trait_analysis_walkthrough.html)
 
 ## Multi-omics data management
