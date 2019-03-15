@@ -28,7 +28,6 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2012 - [RIMBANET](http://research.mssm.edu/integrative-network-biology/RIMBANET/RIMBANET_overview.html) - Zhu - Reconstructing Integrative Molecular Bayesian Networks - [paper](https://doi.org/10.1371/journal.pbio.1001301)
 - 2013 - [MFA](https://cran.r-project.org/package=FactoMineR) - Abdi - multiple factor analysis - [paper](https://doi.org/10.1002/wics.1246)
 - 2013 - [JIVE](https://genome.unc.edu/jive/) - Lock - joint & individual variance explained - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671601/)
-- 2013 - [BCC](https://github.com/ttriche/bayesCC) - Lock - Bayesian consensus clustering - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789539/)
 - 2013 - [PANDA](https://bioconductor.org/packages/release/bioc/html/pandaR.html) - Glass - Passing Attributes between Networks for Data Assimilation
 - 2014 - [MCIA](https://bioconductor.org/packages/omicade4) - Meng - multiple co-interia analysis - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053266/)
 - 2014 - [STATegRa](https://bioconductor.org/packages/STATegRa) - Gomez-Cabrero - DISCO, JIVE, & O2PLS (several papers)
@@ -74,6 +73,7 @@ For brevity, below lists only the first author of multi-omics methods.
 
 - 2009 - [iCluster](https://cran.r-project.org/package=iCluster) - Shen - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800366/)
 - 2013 - [iCluster+](https://bioconductor.org/packages/iClusterPlus) - Mo - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3600490/)
+- 2013 - [BCC](https://github.com/ttriche/bayesCC) - Lock - Bayesian consensus clustering - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789539/)
 - 2013 - **iBAG** - Wang - Integrative Bayesian Analysis of Genomics - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3546799/)
 - 2014 - [SNF](http://compbio.cs.toronto.edu/SNF/SNF/Software.html) - Wang - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24464287)
 - 2019 - [IBOOST](http://dlin.web.unc.edu/software/iboost/) - Wong - [paper](https://doi.org/10.1186/s13059-019-1640-4)
