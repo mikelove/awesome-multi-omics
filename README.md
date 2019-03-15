@@ -26,10 +26,10 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2012 - **sMBPLS** - Li - sparse MultiBlock Partial Least Squares - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3463121/)
 - 2012 - **Bayesian group factor analysis** - Virtanen - [paper](http://proceedings.mlr.press/v22/virtanen12.html)
 - 2012 - [RIMBANET](http://research.mssm.edu/integrative-network-biology/RIMBANET/RIMBANET_overview.html) - Zhu - Reconstructing Integrative Molecular Bayesian Networks - [paper](https://doi.org/10.1371/journal.pbio.1001301)
-- 2013 - [MFA](https://cran.r-project.org/package=FactoMineR) - Abdi - multiple factor analysis - [paper](https://doi.org/10.1002/wics.1246)
+- 2013 - [FactoMineR](https://cran.r-project.org/package=FactoMineR) - Abdi - MFA: multiple factor analysis - [paper](https://doi.org/10.1002/wics.1246)
 - 2013 - [JIVE](https://genome.unc.edu/jive/) - Lock - joint & individual variance explained - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671601/)
 - 2013 - [PANDA](https://bioconductor.org/packages/release/bioc/html/pandaR.html) - Glass - Passing Attributes between Networks for Data Assimilation
-- 2014 - [MCIA](https://bioconductor.org/packages/omicade4) - Meng - multiple co-interia analysis - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053266/)
+- 2014 - [omicade4](https://bioconductor.org/packages/omicade4) - Meng - MCIA: multiple co-interia analysis - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053266/)
 - 2014 - [STATegRa](https://bioconductor.org/packages/STATegRa) - Gomez-Cabrero - DISCO, JIVE, & O2PLS (several papers)
 - 2014 - **Joint factor model** - Ray - [paper](https://doi.org/10.1093/bioinformatics/btu064)
 - 2014 - [GFAsparse](https://research.cs.aalto.fi/pml/software/GFAsparse/) - Khan - group factor analysis sparse [paper 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4147909/), [paper 2](https://doi.org/10.1093/bioinformatics/btw207)
