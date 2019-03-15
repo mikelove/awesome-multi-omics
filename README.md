@@ -19,8 +19,10 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2009 - **sPLS** - Lê Cao - sparse PLS - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2640358/)
 - 2009 - [RGSCA](https://CRAN.r-project.org/package=gesca) - Hwang - regularized generalized structured component analysis - [paper](https://doi.org/10.1007/s11336-009-9119-y) 
 - 2010 - **Regularized dual CCA** - Soneson - [paper](https://doi.org/10.1186/1471-2105-11-191)
-- 2012 - **Bayesian group factor analysis** - Virtanen - [paper](http://proceedings.mlr.press/v22/virtanen12.html)
+- 2011 - **SNMNMF** - Zhang - Sparse Network-regularized Multiple Non-negative Matrix Factorization - [paper](https://www.ncbi.nlm.nih.gov/pubmed/21685098)
 - 2012 - [STATIS/DiSTATIS](https://github.com/HerveAbdi/DistatisR) - Abdi - structuring three-way statistical tables - [paper](https://doi.org/10.1002/wics.198)
+- 2012 - **joint NMF** - Zhang - extension of NMF to multiple datasets - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3479191/)
+- 2012 - **sMBPLS** - Li - sparse MultiBlock Partial Least Squares - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3463121/)
 - 2013 - [MFA](https://cran.r-project.org/package=FactoMineR) - Abdi - multiple factor analysis - [paper](https://doi.org/10.1002/wics.1246)
 - 2013 - [JIVE](https://genome.unc.edu/jive/) - Lock - joint & individual variance explained - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671601/)
 - 2014 - [MCIA](https://bioconductor.org/packages/omicade4) - Meng - multiple co-interia analysis - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053266/)
@@ -30,7 +32,6 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2014 - [GFAsparse](https://research.cs.aalto.fi/pml/software/GFAsparse/) - Khan - group factor analysis sparse [paper 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4147909/), [paper 2](https://doi.org/10.1093/bioinformatics/btw207)
 - 2015 - [CCAGFA](https://cran.r-project.org/package=CCAGFA) - Klami - Bayesian Canonical Correlation Analysis and Group Factor Analysis - [paper 1](https://doi.org/10.1109/TNNLS.2014.2376974), [paper 2](http://www.jmlr.org/papers/v18/16-509.html)
 - 2016 - [CMF](https://cran.r-project.org/package=CMF) - Klami - collective matrix factorization
-- 2016 - **Bayesian group factor analysis** - Zhao - [paper](https://arxiv.org/abs/1411.2698)
 - 2016 - [moGSA](https://bioconductor.org/packages/mogsa) - Meng - multi-omics gene set analysis - [paper](https://doi.org/10.1101/046904)
 - 2016 - [iNMF](https://github.com/yangzi4/iNMF) - Yang - integrative NMF - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26377073/)
 - 2017 - [mixOmics](https://bioconductor.org/packages/mixOmics) - Rohart - [paper](https://doi.org/10.1371/journal.pcbi.1005752)
@@ -43,6 +44,17 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2018 - [PCA+CCA](https://github.com/pachterlab/PCACCA/) - Brown - [paper](https://doi.org/10.1371/journal.pgen.1007841)
 - 2018 - [maui](https://github.com/BIMSBbioinfo/maui) - Ronen - multi-omics autoencoder integration - [paper](https://doi.org/10.1101/464743)
 - 2018 - [JACA](https://github.com/Pennisetum/JACA) - Zhang - Joint Association and Classification Analysis - [paper](https://arxiv.org/abs/1811.08511)
+
+## Integrative Bayesian methods
+- 2012 - **Bayesian group factor analysis** - Virtanen - [paper](http://proceedings.mlr.press/v22/virtanen12.html)
+- 2012 - [RIMBANET](http://research.mssm.edu/integrative-network-biology/RIMBANET/RIMBANET_overview.html) - Zhu - Reconstructing Integrative Molecular Bayesian Networks - [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001301)
+- 2013 - **BCC** - Lock - Bayesian consensus clustering - [paper](https://www.ncbi.nlm.nih.gov/pubmed/23990412)
+- 2013 - **iBAG** - Wang - Integrative Bayesian Analysis of Genomics - [paper](https://www.ncbi.nlm.nih.gov/pubmed/23142963)
+- 2016 - **Bayesian group factor analysis** - Zhao - [paper](https://arxiv.org/abs/1411.2698)
+
+## Message passing
+- 2013 - [PANDA](https://bioconductor.org/packages/release/bioc/html/pandaR.html) - Glass - Passing Attributes between Networks for Data Assimilation - [paper](https://bioconductor.org/packages/release/bioc/html/pandaR.html)
+- 2014 - [SNF](http://compbio.cs.toronto.edu/SNF/SNF/Software.html) - Wang - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24464287)
 
 ### Ecology multi-table literature
 
