@@ -15,7 +15,7 @@ For brevity, below lists only the first author of multi-omics methods.
 
 - 2007 - **SCCA** - Parkhomenko - sparse CCA - [paper 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2367499/), [paper 2](https://doi.org/10.2202/1544-6115.1406) 
 - 2008 - **PCCA** - Waaijenborg - penalized CCA / CCA-EN - [paper](https://doi.org/10.2202/1544-6115.1329)
-- 2009 - [Sparse mCCA](https://CRAN.r-project.org/package=PMA) - Witten - [paper 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2697346/), [paper 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2861323/)
+- 2009 - [PMA](https://CRAN.r-project.org/package=PMA) - Witten - Sparse Multi CCA - [paper 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2697346/), [paper 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2861323/)
 - 2009 - **sPLS** - Lê Cao - sparse PLS - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2640358/)
 - 2009 - [gesca](https://CRAN.r-project.org/package=gesca) - Hwang - RGSCA regularized generalized structured component analysis - [paper](https://doi.org/10.1007/s11336-009-9119-y) 
 - 2010 - **Regularized dual CCA** - Soneson - [paper](https://doi.org/10.1186/1471-2105-11-191)
