@@ -40,11 +40,13 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2017 - [SLIDE](https://github.com/irinagain/SLIDE_Rpackage) - Gaynanova - Structural Learning and Integrative Decomposition of Multi-View Data - [paper](https://arxiv.org/abs/1707.06573)
 - 2017 - [fCCAC](https://github.com/pmb59/fCCAC/) - Madrigal - functional canonical correlation analysis to evaluate covariance - [paper](https://doi.org/10.1093/bioinformatics/btw724)
 - 2017 - [TSKCCA](https://github.com/kosyoshida/TSKCCA) - Yoshida - Sparse kernel canonical correlation analysis - [paper](https://doi.org/10.1186/s12859-017-1543-x)
+- 2017 - **SMSMA** - Kawaguchi - Supervised multiblock sparse multivariable analysis - [paper](https://www.ncbi.nlm.nih.gov/pubmed/28369170)
 - 2018 - [AJIVE](https://github.com/idc9/r_jive) - Feng - angle-based JIVE - [paper](https://arxiv.org/abs/1704.02060)
 - 2018 - [MOFA](https://github.com/bioFAM/MOFA) - Argelaguet - multi-omics factor analysis - [paper](https://doi.org/10.15252/msb.20178124), [application](https://doi.org/10.1101/519207)
 - 2018 - [PCA+CCA](https://github.com/pachterlab/PCACCA/) - Brown - [paper](https://doi.org/10.1371/journal.pgen.1007841)
 - 2018 - [maui](https://github.com/BIMSBbioinfo/maui) - Ronen - multi-omics autoencoder integration - [paper](https://doi.org/10.1101/464743)
 - 2018 - [JACA](https://github.com/Pennisetum/JACA) - Zhang - Joint Association and Classification Analysis - [paper](https://arxiv.org/abs/1811.08511)
+- 2019 - [DIABLO](http://www.bioconductor.org/packages/release/bioc/html/mixOmics.html) - Singh - **D**ata **I**ntegration **A**nalysis for **B**iomarker discovery using **L**atent c**O**mponents - [paper](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty1054/5292387?redirectedFrom=fulltext)
 
 ## Integrative Bayesian methods
 - 2012 - **Bayesian group factor analysis** - Virtanen - [paper](http://proceedings.mlr.press/v22/virtanen12.html)
