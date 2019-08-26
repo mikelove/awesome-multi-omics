@@ -89,7 +89,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2009 - [iCluster](https://cran.r-project.org/package=iCluster) - Shen - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800366/)
 - 2013 - [iClusterPlus](https://bioconductor.org/packages/iClusterPlus) - Mo - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3600490/)
 - 2013 - [BCC](https://github.com/ttriche/bayesCC) - Lock - Bayesian consensus clustering - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789539/)
-- 2013 - **iBAG** - Wang - Integrative Bayesian Analysis of Genomics - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3546799/)
+- 2013 - [iBAG](https://github.com/umich-biostatistics/iBAG) - Wang - Integrative Bayesian Analysis of Genomics - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3546799/)
 - 2014 - [SNF](http://compbio.cs.toronto.edu/SNF/SNF/Software.html) - Wang - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24464287)
 - 2019 - [IBOOST](http://dlin.web.unc.edu/software/iboost/) - Wong - [paper](https://doi.org/10.1186/s13059-019-1640-4)
 
