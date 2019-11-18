@@ -65,7 +65,8 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2018 - **iPCA** - Tang - Integrated Principal Components Analysis - [paper](https://arxiv.org/abs/1810.00832)
 - 2018 - [pCIA](https://www.med.upenn.edu/long-lab/software.html) - Min - penalized COI - [paper](https://www.ncbi.nlm.nih.gov/pubmed/30165424)
 - 2018 - **sSCCA** - Safo - structured sparse CCA - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5677597/)
-- 2019 - [WON-PARAFAC](https://github.com/NKI-CCB/won-parafac) - Kim - Weighted Orthogonal Nonnegative parallel factor analysis - [paper](https://doi.org/10.1038/s41467-019-13027-2) 
+- 2019 - [WON-PARAFAC](https://github.com/NKI-CCB/won-parafac) - Kim - weighted orthogonal nonnegative parallel factor analysis - [paper](https://doi.org/10.1038/s41467-019-13027-2) 
+- 2019 - [BIDIFAC](https://github.com/lockEF/bidifac) - Park - bidimensional integrative factorization - [paper](https://doi.org/10.1111/biom.13141)
 
 ### Ecology multi-table literature
 
