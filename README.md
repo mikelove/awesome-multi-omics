@@ -60,13 +60,13 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2018 - [AJIVE](https://github.com/idc9/r_jive) - Feng - angle-based JIVE - [paper](https://arxiv.org/abs/1704.02060)
 - 2018 - [MOFA](https://github.com/bioFAM/MOFA) - Argelaguet - multi-omics factor analysis - [paper 1](https://doi.org/10.15252/msb.20178124), [paper 2](https://www.biorxiv.org/content/10.1101/837104v1), [application](https://doi.org/10.1101/519207)
 - 2018 - [PCA+CCA](https://github.com/pachterlab/PCACCA/) - Brown - [paper](https://doi.org/10.1371/journal.pgen.1007841)
-- 2018 - [maui](https://github.com/BIMSBbioinfo/maui) - Ronen - multi-omics autoencoder integration - [paper](https://doi.org/10.1101/464743)
 - 2018 - [JACA](https://github.com/Pennisetum/JACA) - Zhang - Joint Association and Classification Analysis - [paper](https://arxiv.org/abs/1811.08511)
 - 2018 - **iPCA** - Tang - Integrated Principal Components Analysis - [paper](https://arxiv.org/abs/1810.00832)
 - 2018 - [pCIA](https://www.med.upenn.edu/long-lab/software.html) - Min - penalized COI - [paper](https://www.ncbi.nlm.nih.gov/pubmed/30165424)
 - 2018 - **sSCCA** - Safo - structured sparse CCA - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5677597/)
 - 2019 - [WON-PARAFAC](https://github.com/NKI-CCB/won-parafac) - Kim - weighted orthogonal nonnegative parallel factor analysis - [paper](https://doi.org/10.1038/s41467-019-13027-2) 
 - 2019 - [BIDIFAC](https://github.com/lockEF/bidifac) - Park - bidimensional integrative factorization - [paper](https://doi.org/10.1111/biom.13141)
+- 2019 - [maui](https://github.com/BIMSBbioinfo/maui) - Ronen - multi-omics autoencoder integration - [paper](https://doi.org/10.26508/lsa.201900517)
 
 ### Ecology multi-table literature
 
