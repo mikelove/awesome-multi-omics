@@ -134,3 +134,7 @@ For brevity, below lists only the first author of multi-omics methods.
 ## Multi-omics data management
 
 - 2017 - [MultiAssayExperiment](https://bioconductor.org/packages/MultiAssayExperiment/) - Software for the integration of multi-omics experiments in Bioconductor - [paper](https://doi.org/10.1158/0008-5472.CAN-17-0344).
+
+## Meetings and workshops
+
+- 2020 - [Mathematical Frameworks for Integrative Analysis of Emerging Biological Data Types](https://www.birs.ca/events/2020/5-day-workshops/20w5197) - [Hackathon details](https://github.com/BIRSBiointegration/Hackathon) - June 14-19, 2020 in Banff, Canada
