@@ -119,6 +119,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2018 - Bougeard - [Current multiblock methods: Competition or complementarity? A comparative study in a unified framework](https://doi.org/10.1016/j.chemolab.2018.09.003)
 - 2018 - Karczewski - [Integrative omics for health and disease](https://doi.org/10.1038/nrg.2018.4)
 - 2019 - McCabe - [Consistency and overfitting of multi-omics methods on experimental data](https://doi.org/10.1093/bib/bbz070) - [code](https://github.com/mccabes292/movie)
+- 2019 - Pierre-Jean - [Clustering and variable selection evaluation of 13 unsupervised methods for multi-omics data integration](https://doi.org/10.1093/bib/bbz138)
 
 ## Multi-omics application papers
 
