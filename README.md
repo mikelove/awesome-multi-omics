@@ -68,6 +68,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2019 - [WON-PARAFAC](https://github.com/NKI-CCB/won-parafac) - Kim - weighted orthogonal nonnegative parallel factor analysis - [paper](https://doi.org/10.1038/s41467-019-13027-2) 
 - 2019 - [BIDIFAC](https://github.com/lockEF/bidifac) - Park - bidimensional integrative factorization - [paper](https://doi.org/10.1111/biom.13141)
 - 2019 - [maui](https://github.com/BIMSBbioinfo/maui) - Ronen - multi-omics autoencoder integration - [paper](https://doi.org/10.26508/lsa.201900517)
+- 2019 - [MOFA+](https://github.com/BIMSBbioinfo/maui) - Argelaguet - Scalable Multi-group Multi-Omics Factor Analysis - [paper](https://www.biorxiv.org/content/10.1101/837104v1)
 
 ### Ecology multi-table literature
 
