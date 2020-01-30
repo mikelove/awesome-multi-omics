@@ -1,9 +1,18 @@
 # awesome-multi-omics
 
-List of software packages for multi-omics data analysis. A
-shameless copy of Sean Davis'
+List of software packages for multi-omics data analysis.
+
+While many of the packages here are marketed for "omics" data (transcriptomics, proteomics, etc.), other more general terms for this type of data analysis are: 
+
+* multi-modal
+* multi-table
+* multi-way
+
+The common thread among the methods listed here is that the same samples are measured across different assays. The data can be described as multiple matrices/tables with the same number of samples and varying number of features.
+
+The repo is in the style of Sean Davis'
 [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
-repo.
+repo for single-cell analysis methods.
 
 [Contributions welcome](https://github.com/mikelove/awesome-multi-omics/blob/master/CONTRIBUTING.md)...
 
@@ -33,11 +42,13 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2014 - [STATegRa](https://bioconductor.org/packages/STATegRa) - Gomez-Cabrero - DISCO, JIVE, & O2PLS (several papers)
 - 2014 - **Joint factor model** - Ray - [paper](https://doi.org/10.1093/bioinformatics/btu064)
 - 2014 - [GFAsparse](https://research.cs.aalto.fi/pml/software/GFAsparse/) - Khan - group factor analysis sparse [paper 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4147909/), [paper 2](https://doi.org/10.1093/bioinformatics/btw207)
+- 2015 - **Sparse CCA** - Gao (3rd paper first author is Chen) - [paper 1](https://doi.org/10.1214/15-AOS1332), [paper 2](https://doi.org/10.1214/16-AOS1519), [paper 3](https://arxiv.org/abs/1311.6186)
 - 2015 - [CCAGFA](https://cran.r-project.org/package=CCAGFA) - Klami - Bayesian Canonical Correlation Analysis and Group Factor Analysis - [paper 1](https://doi.org/10.1109/TNNLS.2014.2376974), [paper 2](http://www.jmlr.org/papers/v18/16-509.html)
 - 2016 - [CMF](https://cran.r-project.org/package=CMF) - Klami - collective matrix factorization
 - 2016 - [moGSA](https://bioconductor.org/packages/mogsa) - Meng - multi-omics gene set analysis - [paper](https://doi.org/10.1101/046904)
 - 2016 - [iNMF](https://github.com/yangzi4/iNMF) - Yang - integrative NMF - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26377073/)
 - 2016 - [BASS](https://github.com/judyboon/BASS) - Zhao - Bayesian group factor analysis - [paper](https://arxiv.org/abs/1411.2698)
+- 2016 - `imputeMFA` in [missMDA](https://cran.r-project.org/web/packages/missMDA/index.html) - Voillet - multiple imputation for multiple factor analysis (MI-MFA) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5048483/)
 - 2017 - [mixOmics](https://bioconductor.org/packages/mixOmics)
     - 2017 - Rohart - various methods - [paper](https://doi.org/10.1371/journal.pcbi.1005752)
     - 2019 - Singh - DIABLO: Data Integration Analysis for Biomarker discovery using Latent cOmponents - [paper](https://doi.org/10.1093/bioinformatics/bty1054)
@@ -47,13 +58,16 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2017 - [TSKCCA](https://github.com/kosyoshida/TSKCCA) - Yoshida - Sparse kernel canonical correlation analysis - [paper](https://doi.org/10.1186/s12859-017-1543-x)
 - 2017 - **SMSMA** - Kawaguchi - Supervised multiblock sparse multivariable analysis - [paper](https://doi.org/10.1093/biostatistics/kxx011)
 - 2018 - [AJIVE](https://github.com/idc9/r_jive) - Feng - angle-based JIVE - [paper](https://arxiv.org/abs/1704.02060)
-- 2018 - [MOFA](https://github.com/bioFAM/MOFA) - Argelaguet - multi-omics factor analysis - [paper](https://doi.org/10.15252/msb.20178124), [application](https://doi.org/10.1101/519207)
+- 2018 - [MOFA](https://github.com/bioFAM/MOFA) - Argelaguet - multi-omics factor analysis - [paper 1](https://doi.org/10.15252/msb.20178124), [paper 2](https://www.biorxiv.org/content/10.1101/837104v1), [application](https://doi.org/10.1101/519207)
 - 2018 - [PCA+CCA](https://github.com/pachterlab/PCACCA/) - Brown - [paper](https://doi.org/10.1371/journal.pgen.1007841)
-- 2018 - [maui](https://github.com/BIMSBbioinfo/maui) - Ronen - multi-omics autoencoder integration - [paper](https://doi.org/10.1101/464743)
 - 2018 - [JACA](https://github.com/Pennisetum/JACA) - Zhang - Joint Association and Classification Analysis - [paper](https://arxiv.org/abs/1811.08511)
 - 2018 - **iPCA** - Tang - Integrated Principal Components Analysis - [paper](https://arxiv.org/abs/1810.00832)
 - 2018 - [pCIA](https://www.med.upenn.edu/long-lab/software.html) - Min - penalized COI - [paper](https://www.ncbi.nlm.nih.gov/pubmed/30165424)
 - 2018 - **sSCCA** - Safo - structured sparse CCA - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5677597/)
+- 2018 - **SWCCA** - Min - Sparse Weighted CCA - [paper](https://arxiv.org/abs/1710.04792)
+- 2019 - [WON-PARAFAC](https://github.com/NKI-CCB/won-parafac) - Kim - weighted orthogonal nonnegative parallel factor analysis - [paper](https://doi.org/10.1038/s41467-019-13027-2) 
+- 2019 - [BIDIFAC](https://github.com/lockEF/bidifac) - Park - bidimensional integrative factorization - [paper](https://doi.org/10.1111/biom.13141)
+- 2019 - [maui](https://github.com/BIMSBbioinfo/maui) - Ronen - multi-omics autoencoder integration - [paper](https://doi.org/10.26508/lsa.201900517)
 
 ### Ecology multi-table literature
 
@@ -79,9 +93,10 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2009 - [iCluster](https://cran.r-project.org/package=iCluster) - Shen - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800366/)
 - 2013 - [iClusterPlus](https://bioconductor.org/packages/iClusterPlus) - Mo - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3600490/)
 - 2013 - [BCC](https://github.com/ttriche/bayesCC) - Lock - Bayesian consensus clustering - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789539/)
-- 2013 - **iBAG** - Wang - Integrative Bayesian Analysis of Genomics - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3546799/)
+- 2013 - [iBAG](https://github.com/umich-biostatistics/iBAG) - Wang - Integrative Bayesian Analysis of Genomics - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3546799/)
 - 2014 - [SNF](http://compbio.cs.toronto.edu/SNF/SNF/Software.html) - Wang - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24464287)
 - 2019 - [IBOOST](http://dlin.web.unc.edu/software/iboost/) - Wong - [paper](https://doi.org/10.1186/s13059-019-1640-4)
+- 2019 - [Spectrum](https://cran.r-project.org/web/packages/Spectrum/index.html) - John - [paper](https://doi.org/10.1093/bioinformatics/btz704)
 
 ### Single cell multi-omics
 
@@ -95,18 +110,22 @@ For brevity, below lists only the first author of multi-omics methods.
 ## Multi-omics reviews / evaluations
 
 - 2014 - Kohl - [A practical data processing workflow for multi-OMICS projects](https://doi.org/10.1016/j.bbapap.2013.02.029)
+- 2016 - Josse - [Measuring multivariate association and beyond](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5658146/)
 - 2016 - Ebrahim - [Multi-omic data integration enables discovery of hidden biological regularities](https://doi.org/10.1038/ncomms13091)
 - 2016 - Meng - [Dimension reduction techniques for the integrative analysis of multi-omics data](https://doi.org/10.1093/bib/bbv108)
 - 2017 - Huang - [More Is Better: Recent Progress in Multi-Omics Data Integration Methods](https://doi.org/10.3389/fgene.2017.00084)
 - 2017 - Hasin - [Multi-omics approaches to disease](https://doi.org/10.1186/s13059-017-1215-1)
 - 2017 - Allen - [Statistical data integration: Challenges and opportunities](http://www.stat.rice.edu/~gallen/gallen_data_integration_2017.pdf)
-- 2018 - McCabe - [MOVIE: Multi-Omics VIsualization of Estimated contributions](https://doi.org/10.1101/379115) - [code](https://github.com/mccabes292/movie)
 - 2018 - Rappoport - [Multi-omic and multi-view clustering algorithms: review and cancer benchmark](https://doi.org/10.1093/nar/gky889)
 - 2018 - Bougeard - [Current multiblock methods: Competition or complementarity? A comparative study in a unified framework](https://doi.org/10.1016/j.chemolab.2018.09.003)
+- 2018 - Karczewski - [Integrative omics for health and disease](https://doi.org/10.1038/nrg.2018.4)
+- 2019 - McCabe - [Consistency and overfitting of multi-omics methods on experimental data](https://doi.org/10.1093/bib/bbz070) - [code](https://github.com/mccabes292/movie)
+- 2019 - Pierre-Jean - [Clustering and variable selection evaluation of 13 unsupervised methods for multi-omics data integration](https://doi.org/10.1093/bib/bbz138)
 
 ## Multi-omics application papers
 
 - 2007 - Fagan - [A multivariate analysis approach to the integration of proteomic and gene expression data](https://doi.org/10.1002/pmic.200600898)
+- 2011 - De la Cruz - [The duality diagram in data analysis: Examples of modern applications](https://doi.org/10.1214/10-AOAS408) - [R notebook](http://lbbe-shiny.univ-lyon1.fr/Reproducible_Research/06-AAS.Thioulouse.2011/)
 - 2014 - Tomescu - [Integrative omics analysis. A study based on Plasmodium falciparum mRNA and protein data](https://doi.org/10.1186/1752-0509-8-S2-S4)
 - 2014 - Costello (NCI/DREAM) - [A community effort to assess and improve drug sensitivity prediction algorithms](https://doi.org/10.1038/nbt.2877)
 - 2016 - Wan - [TCGA2STAT: simple TCGA data access for integrated statistical analysis in R](https://doi.org/10.1093/bioinformatics/btv677) - [R notebook](http://www.liuzlab.org/TCGA2STAT/)
@@ -117,3 +136,7 @@ For brevity, below lists only the first author of multi-omics methods.
 ## Multi-omics data management
 
 - 2017 - [MultiAssayExperiment](https://bioconductor.org/packages/MultiAssayExperiment/) - Software for the integration of multi-omics experiments in Bioconductor - [paper](https://doi.org/10.1158/0008-5472.CAN-17-0344).
+
+## Meetings and workshops
+
+- 2020 - [Mathematical Frameworks for Integrative Analysis of Emerging Biological Data Types](https://www.birs.ca/events/2020/5-day-workshops/20w5197) - [Hackathon details](https://github.com/BIRSBiointegration/Hackathon) - June 14-19, 2020 in Banff, Canada
