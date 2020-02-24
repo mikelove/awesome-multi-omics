@@ -65,9 +65,11 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2018 - [pCIA](https://www.med.upenn.edu/long-lab/software.html) - Min - penalized COI - [paper](https://www.ncbi.nlm.nih.gov/pubmed/30165424)
 - 2018 - **sSCCA** - Safo - structured sparse CCA - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5677597/)
 - 2018 - **SWCCA** - Min - Sparse Weighted CCA - [paper](https://arxiv.org/abs/1710.04792)
+- 2018 - [OmicsPLS](https://github.com/selbouhaddani/OmicsPLS) - Bouhaddani  - O2PLS implemented in R, with an alternative cross-validation scheme - [paper](https://doi.org/10.1186/s12859-018-2371-3)
 - 2019 - [WON-PARAFAC](https://github.com/NKI-CCB/won-parafac) - Kim - weighted orthogonal nonnegative parallel factor analysis - [paper](https://doi.org/10.1038/s41467-019-13027-2) 
 - 2019 - [BIDIFAC](https://github.com/lockEF/bidifac) - Park - bidimensional integrative factorization - [paper](https://doi.org/10.1111/biom.13141)
 - 2019 - [maui](https://github.com/BIMSBbioinfo/maui) - Ronen - multi-omics autoencoder integration - [paper](https://doi.org/10.26508/lsa.201900517)
+- 2020 - [msPLS](http://uva.csala.me/mspls) - Csala - multiset sparse partial least squares path modeling - [paper](https://doi.org/10.1186/s12859-019-3286-3)
 
 ### Ecology multi-table literature
 
@@ -119,8 +121,10 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2018 - Rappoport - [Multi-omic and multi-view clustering algorithms: review and cancer benchmark](https://doi.org/10.1093/nar/gky889)
 - 2018 - Bougeard - [Current multiblock methods: Competition or complementarity? A comparative study in a unified framework](https://doi.org/10.1016/j.chemolab.2018.09.003)
 - 2018 - Karczewski - [Integrative omics for health and disease](https://doi.org/10.1038/nrg.2018.4)
+- 2019 - Chauvel - [Evaluation of integrative clustering methods for the analysis of multi-omics data](https://doi.org/10.1093/bib/bbz015)
 - 2019 - McCabe - [Consistency and overfitting of multi-omics methods on experimental data](https://doi.org/10.1093/bib/bbz070) - [code](https://github.com/mccabes292/movie)
 - 2019 - Pierre-Jean - [Clustering and variable selection evaluation of 13 unsupervised methods for multi-omics data integration](https://doi.org/10.1093/bib/bbz138)
+- 2020 - Lee - [Heterogeneous Multi-Layered Network Model for Omics Data Integration and Analysis](https://doi.org/10.3389/fgene.2019.01381)
 
 ## Multi-omics application papers
 
@@ -132,6 +136,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2017 - Butler - [Integrating single-cell transcriptomic data across different conditions, technologies, and species.](https://www.biorxiv.org/content/10.1101/164889v1)
 - 2018 - Skelly - [Reference trait analysis reveals correlations between gene expression and quantitative traits in disjoint samples](https://www.biorxiv.org/content/10.1101/489542v1) - [R notebook](https://daskelly.github.io/reference_traits/reference_trait_analysis_walkthrough.html)
 - 2018 - Stuart - [Comprehensive integration of single cell data](https://www.biorxiv.org/content/10.1101/460147v1)
+- 2019 - Xu - [Identifying subpathway signatures for individualized anticancer drug response by integrating multi-omics data](https://doi.org/10.1186/s12967-019-2010-4)
 
 ## Multi-omics data management
 
