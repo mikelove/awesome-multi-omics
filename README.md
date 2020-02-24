@@ -124,6 +124,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2019 - Chauvel - [Evaluation of integrative clustering methods for the analysis of multi-omics data](https://doi.org/10.1093/bib/bbz015)
 - 2019 - McCabe - [Consistency and overfitting of multi-omics methods on experimental data](https://doi.org/10.1093/bib/bbz070) - [code](https://github.com/mccabes292/movie)
 - 2019 - Pierre-Jean - [Clustering and variable selection evaluation of 13 unsupervised methods for multi-omics data integration](https://doi.org/10.1093/bib/bbz138)
+- 2019 - Pinu - [Systems Biology and Multi-Omics Integration: Viewpoints from the Metabolomics Research Community](https://doi.org/10.3390/metabo9040076)
 - 2020 - Lee - [Heterogeneous Multi-Layered Network Model for Omics Data Integration and Analysis](https://doi.org/10.3389/fgene.2019.01381)
 
 ## Multi-omics application papers
