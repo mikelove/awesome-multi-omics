@@ -70,6 +70,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2019 - [BIDIFAC](https://github.com/lockEF/bidifac) - Park - bidimensional integrative factorization - [paper](https://doi.org/10.1111/biom.13141)
 - 2019 - [maui](https://github.com/BIMSBbioinfo/maui) - Ronen - multi-omics autoencoder integration - [paper](https://doi.org/10.26508/lsa.201900517)
 - 2020 - [msPLS](http://uva.csala.me/mspls) - Csala - multiset sparse partial least squares path modeling - [paper](https://doi.org/10.1186/s12859-019-3286-3)
+- 2020 - **MOTA** - Fan - network-based multi-omic data integration for biomarker discovery - [paper](https://doi.org/10.3390/metabo10040144)
 
 ### Ecology multi-table literature
 
