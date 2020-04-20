@@ -1,6 +1,6 @@
 # awesome-multi-omics
 
-List of software packages for multi-omics data analysis.
+A [community-maintained](https://github.com/mikelove/awesome-multi-omics/graphs/contributors) list of software packages for multi-omics data analysis.
 
 While many of the packages here are marketed for "omics" data (transcriptomics, proteomics, etc.), other more general terms for this type of data analysis are: 
 
