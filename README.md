@@ -30,6 +30,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2010 - **Regularized dual CCA** - Soneson - [paper](https://doi.org/10.1186/1471-2105-11-191)
 - 2011 - [RGCCA](https://cran.r-project.org/package=RGCCA) - Tenenhaus - Regularized Generalized CCA and Sparse Generalized CCA - [paper 1](https://www.ncbi.nlm.nih.gov/pubmed/28536930), [paper 2](https://www.ncbi.nlm.nih.gov/pubmed/24550197)
 - 2011 - **SNMNMF** - Zhang - Sparse Network-regularized Multiple Non-negative Matrix Factorization - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3117336/)
+- 2011 - **Sparse CCA** - Lee - Sparse Canonical Covariance Analysis for High-throughput Data - [paper](https://doi.org/10.2202/1544-6115.1638)
 - 2012 - [STATIS/DiSTATIS](https://github.com/HerveAbdi/DistatisR) - Abdi - structuring three-way statistical tables - [paper](https://doi.org/10.1002/wics.198)
 - 2012 - **joint NMF** - Zhang - extension of NMF to multiple datasets - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3479191/)
 - 2012 - **sMBPLS** - Li - sparse MultiBlock Partial Least Squares - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3463121/)
