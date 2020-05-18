@@ -133,6 +133,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2019 - Wu - [A Selective Review of Multi-Level Omics Data Integration Using Variable Selection](https://doi.org/10.3390/ht8010004)
 - 2020 - Lee - [Heterogeneous Multi-Layered Network Model for Omics Data Integration and Analysis](https://doi.org/10.3389/fgene.2019.01381)
 - 2020 - Nguyen - [Multiview learning for understanding functional multiomics](https://doi.org/10.1371/journal.pcbi.1007677)
+- 2020 - Eicher - [Metabolomics and multi-omics integration: a survey of computational methods and resources](https://doi.org/10.3390/metabo10050202)
 
 ## Multi-omics application papers
 
