@@ -141,6 +141,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2020 - Nguyen - [Multiview learning for understanding functional multiomics](https://doi.org/10.1371/journal.pcbi.1007677)
 - 2020 - Eicher - [Metabolomics and multi-omics integration: a survey of computational methods and resources](https://doi.org/10.3390/metabo10050202)
 - 2020 - Cantini - [Benchmarking joint multi-omics dimensionality reduction approaches for cancer study](https://www.biorxiv.org/content/10.1101/2020.01.14.905760v1)
+- 2020 - Subramanian - [Multi-omics Data Integration, Interpretation, and Its Application](https://dx.doi.org/10.1177/1177932219899051)
 
 ## Multi-omics application papers
 
@@ -153,6 +154,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2018 - Skelly - [Reference trait analysis reveals correlations between gene expression and quantitative traits in disjoint samples](https://www.biorxiv.org/content/10.1101/489542v1) - [R notebook](https://daskelly.github.io/reference_traits/reference_trait_analysis_walkthrough.html)
 - 2018 - Stuart - [Comprehensive integration of single cell data](https://www.biorxiv.org/content/10.1101/460147v1)
 - 2019 - Xu - [Identifying subpathway signatures for individualized anticancer drug response by integrating multi-omics data](https://doi.org/10.1186/s12967-019-2010-4)
+- 2019 - Ghaemi - [Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy](https://doi.org/10.1093/bioinformatics/bty537) Multi-omics in pragnancy using stacked generalization
 
 ## Multi-omics data management
 
