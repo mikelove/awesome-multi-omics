@@ -129,6 +129,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2018 - Rappoport - [Multi-omic and multi-view clustering algorithms: review and cancer benchmark](https://doi.org/10.1093/nar/gky889)
 - 2018 - Bougeard - [Current multiblock methods: Competition or complementarity? A comparative study in a unified framework](https://doi.org/10.1016/j.chemolab.2018.09.003)
 - 2018 - Karczewski - [Integrative omics for health and disease](https://doi.org/10.1038/nrg.2018.4)
+- 2018 - Yan - [Network approaches to systems biology analysis of complex disease: integrative methods for multi-omics data](https://dx.doi.org/10.1093/bib/bbx066)
 - 2019 - Misra - [Integrated omics: tools, advances and future approaches](https://doi.org/10.1530/JME-18-0055)
 - 2019 - Chauvel - [Evaluation of integrative clustering methods for the analysis of multi-omics data](https://doi.org/10.1093/bib/bbz015)
 - 2019 - McCabe - [Consistency and overfitting of multi-omics methods on experimental data](https://doi.org/10.1093/bib/bbz070) - [code](https://github.com/mccabes292/movie)
