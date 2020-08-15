@@ -123,12 +123,14 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2016 - Josse - [Measuring multivariate association and beyond](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5658146/)
 - 2016 - Ebrahim - [Multi-omic data integration enables discovery of hidden biological regularities](https://doi.org/10.1038/ncomms13091)
 - 2016 - Meng - [Dimension reduction techniques for the integrative analysis of multi-omics data](https://doi.org/10.1093/bib/bbv108)
+- 2016 - Li - [A review on machine learning principles for multi-view biological data integration](https://doi.org/10.1093/bib/bbw113)
 - 2017 - Huang - [More Is Better: Recent Progress in Multi-Omics Data Integration Methods](https://doi.org/10.3389/fgene.2017.00084)
 - 2017 - Hasin - [Multi-omics approaches to disease](https://doi.org/10.1186/s13059-017-1215-1)
 - 2017 - Allen - [Statistical data integration: Challenges and opportunities](http://www.stat.rice.edu/~gallen/gallen_data_integration_2017.pdf)
 - 2018 - Rappoport - [Multi-omic and multi-view clustering algorithms: review and cancer benchmark](https://doi.org/10.1093/nar/gky889)
 - 2018 - Bougeard - [Current multiblock methods: Competition or complementarity? A comparative study in a unified framework](https://doi.org/10.1016/j.chemolab.2018.09.003)
 - 2018 - Karczewski - [Integrative omics for health and disease](https://doi.org/10.1038/nrg.2018.4)
+- 2018 - Yan - [Network approaches to systems biology analysis of complex disease: integrative methods for multi-omics data](https://dx.doi.org/10.1093/bib/bbx066)
 - 2019 - Misra - [Integrated omics: tools, advances and future approaches](https://doi.org/10.1530/JME-18-0055)
 - 2019 - Chauvel - [Evaluation of integrative clustering methods for the analysis of multi-omics data](https://doi.org/10.1093/bib/bbz015)
 - 2019 - McCabe - [Consistency and overfitting of multi-omics methods on experimental data](https://doi.org/10.1093/bib/bbz070) - [code](https://github.com/mccabes292/movie)
@@ -154,7 +156,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2018 - Skelly - [Reference trait analysis reveals correlations between gene expression and quantitative traits in disjoint samples](https://www.biorxiv.org/content/10.1101/489542v1) - [R notebook](https://daskelly.github.io/reference_traits/reference_trait_analysis_walkthrough.html)
 - 2018 - Stuart - [Comprehensive integration of single cell data](https://www.biorxiv.org/content/10.1101/460147v1)
 - 2019 - Xu - [Identifying subpathway signatures for individualized anticancer drug response by integrating multi-omics data](https://doi.org/10.1186/s12967-019-2010-4)
-- 2019 - Ghaemi - [Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy](https://doi.org/10.1093/bioinformatics/bty537) Multi-omics in pragnancy using stacked generalization
+- 2019 - Ghaemi - [Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy](https://doi.org/10.1093/bioinformatics/bty537) Multi-omics in pregnancy using stacked generalization
 
 ## Multi-omics data management
 
