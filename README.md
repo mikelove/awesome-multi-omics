@@ -50,6 +50,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2016 - [iNMF](https://github.com/yangzi4/iNMF) - Yang - integrative NMF - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26377073/)
 - 2016 - [BASS](https://github.com/judyboon/BASS) - Zhao - Bayesian group factor analysis - [paper](https://arxiv.org/abs/1411.2698)
 - 2016 - `imputeMFA` in [missMDA](https://cran.r-project.org/web/packages/missMDA/index.html) - Voillet - multiple imputation for multiple factor analysis (MI-MFA) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5048483/)
+- 2016 - [PLSCA](https://github.com/derekbeaton/PLSCA_Framework) - Beaton - Partial Least Square Correspondence Analysis - [paper](https://wwwpub.utdallas.edu/~herve/abdi-bdAa2015_PLSCA.pdf)
 - 2017 - [mixOmics](https://bioconductor.org/packages/mixOmics)
     - 2017 - Rohart - various methods - [paper](https://doi.org/10.1371/journal.pcbi.1005752)
     - 2019 - Singh - DIABLO: Data Integration Analysis for Biomarker discovery using Latent cOmponents - [paper](https://doi.org/10.1093/bioinformatics/bty1054)
