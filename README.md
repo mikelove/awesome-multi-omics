@@ -153,6 +153,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2011 - De la Cruz - [The duality diagram in data analysis: Examples of modern applications](https://doi.org/10.1214/10-AOAS408) - [R notebook](http://lbbe-shiny.univ-lyon1.fr/Reproducible_Research/06-AAS.Thioulouse.2011/)
 - 2014 - Tomescu - [Integrative omics analysis. A study based on Plasmodium falciparum mRNA and protein data](https://doi.org/10.1186/1752-0509-8-S2-S4)
 - 2014 - Costello (NCI/DREAM) - [A community effort to assess and improve drug sensitivity prediction algorithms](https://doi.org/10.1038/nbt.2877)
+- 2015 - Wang - [Inferring gene–gene interactions and functional modules using sparse canonical correlation analysis](https://doi.org/10.1214/14-AOAS792)
 - 2016 - Wan - [TCGA2STAT: simple TCGA data access for integrated statistical analysis in R](https://doi.org/10.1093/bioinformatics/btv677) - [R notebook](http://www.liuzlab.org/TCGA2STAT/)
 - 2017 - Butler - [Integrating single-cell transcriptomic data across different conditions, technologies, and species.](https://www.biorxiv.org/content/10.1101/164889v1)
 - 2018 - Skelly - [Reference trait analysis reveals correlations between gene expression and quantitative traits in disjoint samples](https://www.biorxiv.org/content/10.1101/489542v1) - [R notebook](https://daskelly.github.io/reference_traits/reference_trait_analysis_walkthrough.html)
