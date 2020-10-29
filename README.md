@@ -159,6 +159,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2017 - Butler - [Integrating single-cell transcriptomic data across different conditions, technologies, and species.](https://www.biorxiv.org/content/10.1101/164889v1)
 - 2018 - Skelly - [Reference trait analysis reveals correlations between gene expression and quantitative traits in disjoint samples](https://www.biorxiv.org/content/10.1101/489542v1) - [R notebook](https://daskelly.github.io/reference_traits/reference_trait_analysis_walkthrough.html)
 - 2018 - Stuart - [Comprehensive integration of single cell data](https://www.biorxiv.org/content/10.1101/460147v1)
+- 2018 - Ash - [Joint analysis of gene expression levels and histological images identifies genes associated with tissue morphology](https://doi.org/10.1101/458711)
 - 2019 - Xu - [Identifying subpathway signatures for individualized anticancer drug response by integrating multi-omics data](https://doi.org/10.1186/s12967-019-2010-4)
 - 2019 - Ghaemi - [Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy](https://doi.org/10.1093/bioinformatics/bty537) Multi-omics in pregnancy using stacked generalization
 
