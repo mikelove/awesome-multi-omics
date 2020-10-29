@@ -77,6 +77,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2020 - **MOTA** - Fan - network-based multi-omic data integration for biomarker discovery - [paper](https://doi.org/10.3390/metabo10040144)
 - 2020 - [D-CCA](https://github.com/shu-hai/D-CCA) - Shu - Decomposition-based Canonical Correlation Analysis - [paper](https://doi.org/10.1080/01621459.2018.1543599)
 - 2020 - [COMBI](https://bioconductor.org/packages/combi) - Hawinkel - Compositional Omics Model-Based Integration - [paper](https://doi.org/10.1093/nargab/lqaa050)
+- 2020 - [DPCCA](https://github.com/gwgundersen/dpcca) - Gundersen - Deep Probabilistic CCA - [paper](http://proceedings.mlr.press/v115/gundersen20a.html)
 
 ### Ecology multi-table literature
 
