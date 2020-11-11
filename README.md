@@ -79,6 +79,8 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2020 - [COMBI](https://bioconductor.org/packages/combi) - Hawinkel - Compositional Omics Model-Based Integration - [paper](https://doi.org/10.1093/nargab/lqaa050)
 - 2020 - [DPCCA](https://github.com/gwgundersen/dpcca) - Gundersen - Deep Probabilistic CCA - [paper](http://proceedings.mlr.press/v115/gundersen20a.html)
 - 2020 - [MEFISTO](https://biofam.github.io/MOFA2/MEFISTO.html) - Velten - spatial or temporal relationships - [preprint](https://doi.org/10.1101/2020.11.03.366674)
+- 2020 - [MultiPower](https://github.com/ConesaLab/MultiPower) - Tarazona - Sample size in multi-omic experiments - [paper](https://doi.org/10.1038/s41467-020-16937-8)
+
 ### Ecology multi-table literature
 
 - 1994 - **COI** - Doledec - Co‐inertia analysis - [paper](https://doi.org/10.1111/j.1365-2427.1994.tb01741.x)
