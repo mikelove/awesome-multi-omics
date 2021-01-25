@@ -111,6 +111,12 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2019 - [Spectrum](https://cran.r-project.org/web/packages/Spectrum/index.html) - John - [paper](https://doi.org/10.1093/bioinformatics/btz704)
 - 2020 - [INF](https://gitlab.fbk.eu/MPBA/INF) - Chierici and Bussola - [paper](https://doi.org/10.1101/2020.04.01.020685)
 
+### Multi-omics networks
+
+- 2018 - Didier - [MolTi-DREAM](https://github.com/gilles-didier/MolTi-DREAM/) identifying communities from multiplex networks, and annotated the obtained clusters [article](https://dx.doi.org/10.12688%2Ff1000research.15486.2)
+- 2019 - Valdeolivas - [RWR-MH](https://github.com/alberto-valdeolivas/RWR-MH) Random walk with restart on multiplex and heterogeneous biological networks [article](https://doi.org/10.1093/bioinformatics/bty637)
+- 2020 - Novoa-del-toro - [MOGAMUN](https://bioconductor.org/packages/MOGAMUN/) A multi-objective genetic algorithm to find active modules in multiplex biological networks [preprint](https://www.biorxiv.org/content/10.1101/2020.05.25.114215v1)
+
 ### Single cell multi-omics
 
 - 2018 - [cardelino](https://github.com/PMBio/cardelino) - gene expression states to clones (SNVs from scRNA-seq + bulk exome data)
