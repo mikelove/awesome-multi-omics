@@ -88,15 +88,15 @@ For brevity, below lists only the first author of multi-omics methods.
 
 ### Chemometrics multi-table literature
 
-- 1987 - Wold - Multi‐way principal components‐and PLS‐analysis - [paper](https://doi.org/10.1002/cem.1180010107)
-- 1996 - Wold - Hierarchical multiblock PLS - [paper](https://doi.org/10.1002/(SICI)1099-128X(199609)10:5/6%3C463::AID-CEM445%3E3.0.CO;2-L)
-- 2003 - Trygg - O2‐PLS, a two‐block (X–Y) latent variable regression (LVR) - [paper](https://doi.org/10.1002/cem.775)
-- 2011 - Hanafi - Connections between multiple COI and consensus PCA - [paper](https://doi.org/10.1016/j.chemolab.2010.05.010)
+- 1987 -    - Wold - Multi‐way principal components‐and PLS‐analysis - [paper](https://doi.org/10.1002/cem.1180010107)
+- 1996 -    - Wold - Hierarchical multiblock PLS - [paper](https://doi.org/10.1002/(SICI)1099-128X(199609)10:5/6%3C463::AID-CEM445%3E3.0.CO;2-L)
+- 2003 -    - Trygg - O2‐PLS, a two‐block (X–Y) latent variable regression (LVR) - [paper](https://doi.org/10.1002/cem.775)
+- 2011 -    - Hanafi - Connections between multiple COI and consensus PCA - [paper](https://doi.org/10.1016/j.chemolab.2010.05.010)
 - 2015 - [THEME](https://github.com/ThomData/R_THEME) - Verron - THEmatic Model Exploration - [paper](https://doi.org/10.1002/cem.2759)
 
 ### Behavioral research multi-table literature
 
-- 2013 - Schouteden - DISCO SCA - distinctive and common components with simultaneous-component analysis- [paper 1](https://www.ncbi.nlm.nih.gov/pubmed/23361416), [paper 2](https://www.ncbi.nlm.nih.gov/pubmed/24178130)
+- 2013 - DISCO SCA - Schouteden - distinctive and common components with simultaneous-component analysis - [paper 1](https://www.ncbi.nlm.nih.gov/pubmed/23361416), [paper 2](https://www.ncbi.nlm.nih.gov/pubmed/24178130)
 
 ### Multi-omics clustering / classification / prediction
 
@@ -113,15 +113,15 @@ For brevity, below lists only the first author of multi-omics methods.
 
 ### Multi-omics networks
 
-- 2018 - Didier - [MolTi-DREAM](https://github.com/gilles-didier/MolTi-DREAM/) identifying communities from multiplex networks, and annotated the obtained clusters [article](https://dx.doi.org/10.12688%2Ff1000research.15486.2)
-- 2019 - Valdeolivas - [RWR-MH](https://github.com/alberto-valdeolivas/RWR-MH) Random walk with restart on multiplex and heterogeneous biological networks [article](https://doi.org/10.1093/bioinformatics/bty637)
-- 2020 - Novoa-del-toro - [MOGAMUN](https://bioconductor.org/packages/MOGAMUN/) A multi-objective genetic algorithm to find active modules in multiplex biological networks [preprint](https://www.biorxiv.org/content/10.1101/2020.05.25.114215v1)
-- 2021 - Wen - [RWRF](https://github.com/Sepstar/RWRF/) Random Walk with Restart for multi-dimensional data Fusion [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04029-3) 
+- 2018 - [MolTi-DREAM](https://github.com/gilles-didier/MolTi-DREAM/) - Didier - identifying communities from multiplex networks, and annotated the obtained clusters [article](https://dx.doi.org/10.12688%2Ff1000research.15486.2)
+- 2019 - [RWR-MH](https://github.com/alberto-valdeolivas/RWR-MH) - Valdeolivas - Random walk with restart on multiplex and heterogeneous biological networks [article](https://doi.org/10.1093/bioinformatics/bty637)
+- 2020 - [MOGAMUN](https://bioconductor.org/packages/MOGAMUN/) - Novoa-del-toro - A multi-objective genetic algorithm to find active modules in multiplex biological networks [preprint](https://www.biorxiv.org/content/10.1101/2020.05.25.114215v1)
+- 2021 - [RWRF](https://github.com/Sepstar/RWRF/) - Wen -  Random Walk with Restart for multi-dimensional data Fusion [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04029-3) 
 
 ### Single cell multi-omics
 
-- 2018 - [cardelino](https://github.com/PMBio/cardelino) - gene expression states to clones (SNVs from scRNA-seq + bulk exome data)
-- 2018 - [clonealign](https://github.com/kieranrcampbell/clonealign) - gene expression states to clones (scRNA-seq + scDNA-seq (CNV)) - [paper](https://doi.org/10.1101/344309)
+- 2018 - [cardelino](https://github.com/PMBio/cardelino) -    - gene expression states to clones (SNVs from scRNA-seq + bulk exome data) - 
+- 2018 - [clonealign](https://github.com/kieranrcampbell/clonealign) - Campbell - gene expression states to clones (scRNA-seq + scDNA-seq (CNV)) - [paper](https://doi.org/10.1101/344309)
 - 2020 - [CiteFuse](https://sydneybiox.github.io/CiteFuse/) - Kim - CITE-seq data analysis [paper](https://doi.org/10.1093/bioinformatics/btaa282)
 
 ### Multi-study correlation or factor analysis
@@ -175,7 +175,7 @@ For brevity, below lists only the first author of multi-omics methods.
 
 ## Multi-omics data management
 
-- 2017 - [MultiAssayExperiment](https://bioconductor.org/packages/MultiAssayExperiment/) - Software for the integration of multi-omics experiments in Bioconductor - [paper](https://doi.org/10.1158/0008-5472.CAN-17-0344).
+- 2017 - [MultiAssayExperiment](https://bioconductor.org/packages/MultiAssayExperiment/) - Ramos - Software for the integration of multi-omics experiments in Bioconductor - [paper](https://doi.org/10.1158/0008-5472.CAN-17-0344).
 
 ## Meetings and workshops
 
