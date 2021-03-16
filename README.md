@@ -80,6 +80,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2020 - [DPCCA](https://github.com/gwgundersen/dpcca) - Gundersen - Deep Probabilistic CCA - [paper](http://proceedings.mlr.press/v115/gundersen20a.html)
 - 2020 - [MEFISTO](https://biofam.github.io/MOFA2/MEFISTO.html) - Velten - spatial or temporal relationships - [preprint](https://doi.org/10.1101/2020.11.03.366674)
 - 2020 - [MultiPower](https://github.com/ConesaLab/MultiPower) - Tarazona - Sample size in multi-omic experiments - [paper](https://doi.org/10.1038/s41467-020-16937-8)
+- 2020 - [mixedCCA](https://cran.r-project.org/web/packages/mixedCCA/) - Yoon - Sparse semiparametric CCA for data of mixed types - [paper](https://doi.org/10.1093/biomet/asaa007)
 
 ### Ecology multi-table literature
 
