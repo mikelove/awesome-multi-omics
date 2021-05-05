@@ -159,6 +159,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2020 - Eicher - [Metabolomics and multi-omics integration: a survey of computational methods and resources](https://doi.org/10.3390/metabo10050202)
 - 2020 - Cantini - [Benchmarking joint multi-omics dimensionality reduction approaches for cancer study](https://www.biorxiv.org/content/10.1101/2020.01.14.905760v1)
 - 2020 - Subramanian - [Multi-omics Data Integration, Interpretation, and Its Application](https://dx.doi.org/10.1177/1177932219899051)
+- 2020 - Krassowski - [State of the Field in Multi-Omics Research: From Computational Needs to Data Mining and Sharing](https://doi.org/10.3389%2Ffgene.2020.610798) - [code](https://github.com/krassowski/multi-omics-state-of-the-field)
 - 2021 - Espinosa - [Data-Driven Modeling of Pregnancy-Related Complications](https://doi.org/10.1016/j.molmed.2021.01.007)
 
 ## Multi-omics application papers
