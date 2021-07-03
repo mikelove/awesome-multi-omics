@@ -180,6 +180,7 @@ For brevity, below lists only the first author of multi-omics methods.
 ## Multi-omics data management
 
 - 2017 - [MultiAssayExperiment](https://bioconductor.org/packages/MultiAssayExperiment/) - Ramos - Software for the integration of multi-omics experiments in Bioconductor - [paper](https://doi.org/10.1158/0008-5472.CAN-17-0344).
+- 2021 - [muon](https://github.com/pmbio/muon) - Bredikhin - [Multimodal omics analysis framework](https://doi.org/10.1101/2021.06.01.445670)
 
 ## Meetings and workshops
 
