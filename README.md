@@ -111,7 +111,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2019 - [IBOOST](http://dlin.web.unc.edu/software/iboost/) - Wong - [paper](https://doi.org/10.1186/s13059-019-1640-4)
 - 2019 - [Spectrum](https://cran.r-project.org/web/packages/Spectrum/index.html) - John - [paper](https://doi.org/10.1093/bioinformatics/btz704)
 - 2020 - [INF](https://gitlab.fbk.eu/MPBA/INF) - Chierici and Bussola - [paper](https://doi.org/10.1101/2020.04.01.020685)
-- 2021 - [DeepProg](https://deepprog-garmires-lab.readthedocs.io/en/latest/index.html) - Poirion - [paper](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00930-x)
+- 2021 - [DeepProg](https://deepprog-garmires-lab.readthedocs.io/en/latest/index.html) - Poirion - [paper](https://doi.org/10.1186/s13073-021-00930-x)
 
 ### Multi-omics networks
 
