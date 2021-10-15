@@ -69,7 +69,6 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2018 - [SCCA-BC](https://github.com/pimentel/scca-bc) - Pimentel - Biclustering by sparse canonical correlation analysis - [paper](https://doi.org/10.1007/s40484-017-0127-0)
 - 2019 - [WON-PARAFAC](https://github.com/NKI-CCB/won-parafac) - Kim - weighted orthogonal nonnegative parallel factor analysis - [paper](https://doi.org/10.1038/s41467-019-13027-2) 
 - 2019 - [BIDIFAC](https://github.com/lockEF/bidifac) - Park - bidimensional integrative factorization - [paper 1](https://doi.org/10.1111/biom.13141), [paper 2](https://arxiv.org/abs/2002.02601)
-- 2019 - [maui](https://github.com/BIMSBbioinfo/maui) - Ronen - multi-omics autoencoder integration - [paper](https://doi.org/10.26508/lsa.201900517)
 - 2019 - [SmCCNet](https://cran.r-project.org/web/packages/SmCCNet/index.html) - Shi - sparse multiple canonical correlation network analysis - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6931269/)
 - 2020 - [msPLS](https://github.com/acsala/sPLSPM) - Csala - multiset sparse partial least squares path modeling - [paper](https://doi.org/10.1186/s12859-019-3286-3)
 - 2020 - **MOTA** - Fan - network-based multi-omic data integration for biomarker discovery - [paper](https://doi.org/10.3390/metabo10040144)
@@ -111,7 +110,12 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2019 - [IBOOST](http://dlin.web.unc.edu/software/iboost/) - Wong - [paper](https://doi.org/10.1186/s13059-019-1640-4)
 - 2019 - [Spectrum](https://cran.r-project.org/web/packages/Spectrum/index.html) - John - [paper](https://doi.org/10.1093/bioinformatics/btz704)
 - 2020 - [INF](https://gitlab.fbk.eu/MPBA/INF) - Chierici and Bussola - [paper](https://doi.org/10.1101/2020.04.01.020685)
-- 2021 - [DeepProg](https://deepprog-garmires-lab.readthedocs.io/en/latest/index.html) - Poirion - [paper](https://doi.org/10.1186/s13073-021-00930-x)
+
+### Multi-omics autoencoders
+- 2019 - [maui](https://github.com/BIMSBbioinfo/maui) - Ronen - Stacked VAE + clustering predictive of survival - [paper](https://doi.org/10.26508/lsa.201900517)
+- 2019 - [IntegrativeVAEs](https://github.com/CancerAI-CL/IntegrativeVAEs) - Simidjievski - Variational autoencoders + classification - [paper](https://doi.org/10.3389/fgene.2019.01205)
+- 2021 - [DeepProg](https://github.com/lanagarmire/DeepProg) - Poirion - DL and ML ensemble + survival prediction - [paper](https://doi.org/10.1186/s13073-021-00930-x)
+- 2021 - [SHAE](https://github.com/BoevaLab/Supervised-hierarchical-autoencoders-for-cancer-survival) - Wissel - Supervised Hierarchical Autoencoder + survival prediction - [preprint](https://doi.org/10.1101/2021.09.16.460589)
 
 ### Multi-omics networks
 
