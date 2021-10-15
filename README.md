@@ -114,7 +114,7 @@ For brevity, below lists only the first author of multi-omics methods.
 ### Multi-omics autoencoders
 - 2019 - [maui](https://github.com/BIMSBbioinfo/maui) - Ronen - Stacked VAE + clustering predictive of survival - [paper](https://doi.org/10.26508/lsa.201900517)
 - 2019 - [IntegrativeVAEs](https://github.com/CancerAI-CL/IntegrativeVAEs) - Simidjievski - Variational autoencoders + classification - [paper](https://doi.org/10.3389/fgene.2019.01205)
-- 2021 - [DeepProg](https://deepprog-garmires-lab.readthedocs.io/en/latest/index.html) - Poirion - DL and ML ensemble + survival prediction - [paper](https://doi.org/10.1186/s13073-021-00930-x)
+- 2021 - [DeepProg](https://github.com/lanagarmire/DeepProg) - Poirion - DL and ML ensemble + survival prediction - [paper](https://doi.org/10.1186/s13073-021-00930-x)
 - 2021 - [SHAE](https://github.com/BoevaLab/Supervised-hierarchical-autoencoders-for-cancer-survival) - Wissel - Supervised Hierarchical Autoencoder + survival prediction - [preprint](https://doi.org/10.1101/2021.09.16.460589)
 
 ### Multi-omics networks
