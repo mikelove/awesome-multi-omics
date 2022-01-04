@@ -129,6 +129,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2018 - [cardelino](https://github.com/PMBio/cardelino) -    - gene expression states to clones (SNVs from scRNA-seq + bulk exome data) - 
 - 2018 - [clonealign](https://github.com/kieranrcampbell/clonealign) - Campbell - gene expression states to clones (scRNA-seq + scDNA-seq (CNV)) - [paper](https://doi.org/10.1101/344309)
 - 2020 - [CiteFuse](https://sydneybiox.github.io/CiteFuse/) - Kim - CITE-seq data analysis [paper](https://doi.org/10.1093/bioinformatics/btaa282)
+- 2021 - [CoSpar](https://cospar.readthedocs.io/) - Wang - infer dynamics by integrating state and lineage information - [paper](https://www.biorxiv.org/content/10.1101/2021.05.06.443026v1)
 
 ### Multi-study correlation or factor analysis
 
