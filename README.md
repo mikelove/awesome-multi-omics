@@ -135,6 +135,12 @@ For brevity, below lists only the first author of multi-omics methods.
 
 - 2016 - [MSFA](https://github.com/rdevito/MSFA) - De Vito - multi-study factor analysis: same features, different samples - [paper](https://arxiv.org/abs/1611.06350)
 
+### Multi-omics simulation
+
+- 2016 - [InterSIM](https://cran.r-project.org/package=InterSIM) - Chalise - methylation, gene expression and protein expression - [paper](https://dx.doi.org/10.1016%2Fj.cmpb.2016.02.011)
+- 2019 - [MOSim](https://bioconductor.org/packages/MOSim) -  Martinez-Mira - RNA-seq, ATAC-seq (DNase-seq), ChIP-seq, small RNA-seq and Methyl-seq. - [preprint](http://dx.doi.org/10.1101/421834)
+- 2019 - [OmicsSIMLA](https://omicssimla.sourceforge.io/) - Chung - DNA, CNV, WGBS, RNAseq, Protein expression - [paper](https://doi.org/10.1093/gigascience/giz045)
+
 ## Multi-omics reviews / evaluations
 
 - 2008 - Holmes - [Multivariate data analysis: The French way](https://projecteuclid.org/euclid.imsc/1207580085)
