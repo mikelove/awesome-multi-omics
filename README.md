@@ -78,6 +78,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2020 - [MEFISTO](https://biofam.github.io/MOFA2/MEFISTO.html) - Velten - spatial or temporal relationships - [preprint](https://doi.org/10.1101/2020.11.03.366674)
 - 2020 - [MultiPower](https://github.com/ConesaLab/MultiPower) - Tarazona - Sample size in multi-omic experiments - [paper](https://doi.org/10.1038/s41467-020-16937-8)
 - 2020 - [mixedCCA](https://cran.r-project.org/web/packages/mixedCCA/) - Yoon - Sparse semiparametric CCA for data of mixed types - [paper](https://doi.org/10.1093/biomet/asaa007)
+- 2020 - [PhenMap] (https://github.com/syspremed/PhenMAP/) - Nyamundanda and Sadanandam et al., A Machine-Learning Tool Concurrently Models Single Omics and Phenome Data for Functional Subtyping and Personalized Cancer Medicine - [paper] (https://doi.org/10.3390/cancers12102811)
 
 ### Ecology multi-table literature
 
@@ -110,6 +111,8 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2019 - [IBOOST](http://dlin.web.unc.edu/software/iboost/) - Wong - [paper](https://doi.org/10.1186/s13059-019-1640-4)
 - 2019 - [Spectrum](https://cran.r-project.org/web/packages/Spectrum/index.html) - John - [paper](https://doi.org/10.1093/bioinformatics/btz704)
 - 2020 - [INF](https://gitlab.fbk.eu/MPBA/INF) - Chierici and Bussola - [paper](https://doi.org/10.1101/2020.04.01.020685)
+- 2020 - [PhenMap] (https://github.com/syspremed/PhenMAP/) - Nyamundanda and Sadanandam et al., A Machine-Learning Tool Concurrently Models Single Omics and Phenome Data for Functional Subtyping and Personalized Cancer Medicine - [paper] (https://doi.org/10.3390/cancers12102811)
+
 
 ### Multi-omics autoencoders
 - 2019 - [maui](https://github.com/BIMSBbioinfo/maui) - Ronen - Stacked VAE + clustering predictive of survival - [paper](https://doi.org/10.26508/lsa.201900517)
