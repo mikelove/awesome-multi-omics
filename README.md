@@ -67,6 +67,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2018 - **SWCCA** - Min - Sparse Weighted CCA - [paper](https://arxiv.org/abs/1710.04792)
 - 2018 - [OmicsPLS](https://github.com/selbouhaddani/OmicsPLS) - Bouhaddani  - O2PLS implemented in R, with an alternative cross-validation scheme - [paper](https://doi.org/10.1186/s12859-018-2371-3)
 - 2018 - [SCCA-BC](https://github.com/pimentel/scca-bc) - Pimentel - Biclustering by sparse canonical correlation analysis - [paper](https://doi.org/10.1007/s40484-017-0127-0)
+- 2018 - [mixKernel](https://cran.r-project.org/package=mixKernel) - Mariette - kernel method for unsupervised multi-omics integration - [paper 1](http://dx.doi.org/10.1093/bioinformatics/btx682), [paper 2](http://dx.doi.org/10.1093/nargab/lqac014)
 - 2019 - [WON-PARAFAC](https://github.com/NKI-CCB/won-parafac) - Kim - weighted orthogonal nonnegative parallel factor analysis - [paper](https://doi.org/10.1038/s41467-019-13027-2) 
 - 2019 - [BIDIFAC](https://github.com/lockEF/bidifac) - Park - bidimensional integrative factorization - [paper 1](https://doi.org/10.1111/biom.13141), [paper 2](https://arxiv.org/abs/2002.02601)
 - 2019 - [SmCCNet](https://cran.r-project.org/web/packages/SmCCNet/index.html) - Shi - sparse multiple canonical correlation network analysis - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6931269/)
