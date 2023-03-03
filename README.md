@@ -211,3 +211,4 @@ For brevity, below lists only the first author of multi-omics methods.
 ## Meetings and workshops
 
 - 2020 - [Mathematical Frameworks for Integrative Analysis of Emerging Biological Data Types](https://www.birs.ca/events/2020/5-day-workshops/20w5197) - [Hackathon details](https://github.com/BIRSBiointegration/Hackathon) - June 14-19, 2020 in Banff, Canada
+- 
