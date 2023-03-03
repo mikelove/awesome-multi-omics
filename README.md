@@ -116,17 +116,20 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2019 - [NEMO](https://github.com/Shamir-Lab/NEMO) - Rappoport - Similarity-based Clustering - [paper](https://doi.org/10.1093/bioinformatics/btz058)
 - 2020 - [INF](https://gitlab.fbk.eu/MPBA/INF) - Chierici and Bussola - [paper](https://doi.org/10.1101/2020.04.01.020685)
 - 2021 - [ClustOmics](https://github.com/galadrielbriere/ClustOmics) - Brière - Consensus clustering - [paper](https://doi.org/10.1186/s12859-021-04279-1)
+- 2021 - [MOGONET](https://github.com/txWang/MOGONET) - Tongxin Wang - Multi-Omics Graph cOnvolutional NETworks - [paper](https://pubmed.ncbi.nlm.nih.gov/34103512/)
 
 ### Multi-omics autoencoders
 
 - 2019 - [maui](https://github.com/BIMSBbioinfo/maui) - Ronen - Stacked VAE + clustering predictive of survival - [paper](https://doi.org/10.26508/lsa.201900517)
 - 2019 - [IntegrativeVAEs](https://github.com/CancerAI-CL/IntegrativeVAEs) - Simidjievski - Variational autoencoders + classification - [paper](https://doi.org/10.3389/fgene.2019.01205)
+- 2019 - [OmiVAE](https://github.com/zhangxiaoyu11/OmiVAE) - Xiaoyu Zhang -  Integrated Multi-omics Analysis Using Variational Autoencoders - [paper](https://arxiv.org/abs/1908.06278)
 - 2021 - [DeepProg](https://github.com/lanagarmire/DeepProg) - Poirion - DL and ML ensemble + survival prediction - [paper](https://doi.org/10.1186/s13073-021-00930-x)
 - 2021 - [SHAE](https://github.com/BoevaLab/Supervised-hierarchical-autoencoders-for-cancer-survival) - Wissel - Supervised Hierarchical Autoencoder + survival prediction - [preprint](https://doi.org/10.1101/2021.09.16.460589)
 
 ### Multi-omics networks
 
 - 2018 - [MolTi-DREAM](https://github.com/gilles-didier/MolTi-DREAM/) - Didier - identifying communities from multiplex networks, and annotated the obtained clusters [article](https://dx.doi.org/10.12688%2Ff1000research.15486.2)
+- 2018 [NetICS](https://github.com/cbg-ethz/netics) - Christos Dimitrakopoulos - Network-based integration of multi-omics data for prioritizing cancer genes - [paper](https://pubmed.ncbi.nlm.nih.gov/29547932/)
 - 2019 - [RWR-MH](https://github.com/alberto-valdeolivas/RWR-MH) - Valdeolivas - Random walk with restart on multiplex and heterogeneous biological networks [article](https://doi.org/10.1093/bioinformatics/bty637)
 - 2020 - [MOGAMUN](https://bioconductor.org/packages/MOGAMUN/) - Novoa-del-toro - A multi-objective genetic algorithm to find active modules in multiplex biological networks [preprint](https://www.biorxiv.org/content/10.1101/2020.05.25.114215v1)
 - 2021 - [RWRF](https://github.com/Sepstar/RWRF/) - Wen -  Random Walk with Restart for multi-dimensional data Fusion [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04029-3) 
