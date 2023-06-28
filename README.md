@@ -182,6 +182,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2020 - Krassowski - [State of the Field in Multi-Omics Research: From Computational Needs to Data Mining and Sharing](https://doi.org/10.3389%2Ffgene.2020.610798) - [code](https://github.com/krassowski/multi-omics-state-of-the-field)
 - 2021 - Espinosa - [Data-Driven Modeling of Pregnancy-Related Complications](https://doi.org/10.1016/j.molmed.2021.01.007)
 - 2022 - Jiang - [Uncovering Cross-Cohort Molecular Features with Multi-Omics Integration Analysis](https://doi.org/10.1101/2022.11.10.515908)
+- 2022 - Cai - [Machine learning for multi-omics data integration in cancer](https://doi.org/10.1016/j.isci.2022.103798)
 
 ## Multi-omics application papers
 
