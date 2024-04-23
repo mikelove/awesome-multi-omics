@@ -79,6 +79,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2020 - [MEFISTO](https://biofam.github.io/MOFA2/MEFISTO.html) - Velten - spatial or temporal relationships - [preprint](https://doi.org/10.1101/2020.11.03.366674)
 - 2020 - [MultiPower](https://github.com/ConesaLab/MultiPower) - Tarazona - Sample size in multi-omic experiments - [paper](https://doi.org/10.1038/s41467-020-16937-8)
 - 2020 - [mixedCCA](https://cran.r-project.org/web/packages/mixedCCA/) - Yoon - Sparse semiparametric CCA for data of mixed types - [paper](https://doi.org/10.1093/biomet/asaa007)
+- 2020 - [smCIA/ssmCIA](https://www.med.upenn.edu/long-lab/software.html) - Min - Sparse (structured sparse) multiple co-Inertia analysis  - [paper](https://doi.org/10.1186/s12859-020-3455-4)
 - 2023 - [MuVI](https://github.com/MLO-lab/MuVI) - Qoku - Integrate noisy feature sets - [paper](https://arxiv.org/abs/2204.06242)
 
 ### Ecology multi-table literature
