@@ -81,6 +81,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2020 - [mixedCCA](https://cran.r-project.org/web/packages/mixedCCA/) - Yoon - Sparse semiparametric CCA for data of mixed types - [paper](https://doi.org/10.1093/biomet/asaa007)
 - 2020 - [smCIA/ssmCIA](https://www.med.upenn.edu/long-lab/software.html) - Min - Sparse (structured sparse) multiple co-Inertia analysis  - [paper](https://doi.org/10.1186/s12859-020-3455-4)
 - 2023 - [MuVI](https://github.com/MLO-lab/MuVI) - Qoku - Integrate noisy feature sets - [paper](https://arxiv.org/abs/2204.06242)
+- 2024 - [SmCCNet](https://github.com/KechrisLab/SmCCNet) - Liu - Smccnet 2.0: a comprehensive tool for multi-omics network inference with shiny visualization [paper](https://link.springer.com/article/10.1186/s12859-024-05900-9)
 - 2025 - [Flexynesis](https://github.com/BIMSBbioinfo/flexynesis) - Uyar - deeplearning toolkit for bulk multi-omics data integration - [paper](https://www.nature.com/articles/s41467-025-63688-5)
 ### Ecology multi-table literature
 
