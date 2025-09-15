@@ -120,6 +120,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2020 - [INF](https://gitlab.fbk.eu/MPBA/INF) - Chierici and Bussola - [paper](https://doi.org/10.1101/2020.04.01.020685)
 - 2021 - [ClustOmics](https://github.com/galadrielbriere/ClustOmics) - Brière - Consensus clustering - [paper](https://doi.org/10.1186/s12859-021-04279-1)
 - 2021 - [MOGONET](https://github.com/txWang/MOGONET) - Tongxin Wang - Multi-Omics Graph cOnvolutional NETworks - [paper](https://pubmed.ncbi.nlm.nih.gov/34103512/)
+- 2023 - [SCENIC+](https://github.com/aertslab/scenicplus) - Blas - SCENIC+: single-cell multiomic inference of enhancers and gene regulatory networks - [paper](https://www.nature.com/articles/s41592-023-01938-4)
 
 ### Multi-omics autoencoders
 
