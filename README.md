@@ -189,6 +189,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2021 - Espinosa - [Data-Driven Modeling of Pregnancy-Related Complications](https://doi.org/10.1016/j.molmed.2021.01.007)
 - 2022 - Jiang - [Uncovering Cross-Cohort Molecular Features with Multi-Omics Integration Analysis](https://doi.org/10.1101/2022.11.10.515908)
 - 2022 - Cai - [Machine learning for multi-omics data integration in cancer](https://doi.org/10.1016/j.isci.2022.103798)
+- 2024 - Ballard - [Deep learning-based approaches for multi-omics data integration and analysis](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-024-00391-z)
 - 2025 - Baião - [A technical review of multi-omics data integration methods: from classical statistical to deep generative approaches](https://academic.oup.com/bib/article/26/4/bbaf355/8220754)
 
 ## Multi-omics application papers
