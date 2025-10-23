@@ -212,6 +212,10 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2017 - [MultiAssayExperiment](https://bioconductor.org/packages/MultiAssayExperiment/) - Ramos - Software for the integration of multi-omics experiments in Bioconductor - [paper](https://doi.org/10.1158/0008-5472.CAN-17-0344).
 - 2021 - [muon](https://github.com/pmbio/muon) - Bredikhin - [Multimodal omics analysis framework](https://doi.org/10.1101/2021.06.01.445670)
 
+## Multi-omics visualization
+
+- 2025 - Watson - [rakaia](https://github.com/camlab-bioml/rakaia): Scalable spatial omics visualization and analysis in the browser ([paper](https://www.biorxiv.org/content/10.1101/2025.08.15.670550v1))
+
 ## Batch effect correction
 
 - 2020 - [MultiBaC](https://github.com/ConesaLab/MultiBaC) - Ugidos - [MultiBaC: A strategy to remove batch effects between different omic data types](https://doi.org/10.1177/0962280220907365) and [R package publication](https://doi.org/10.1093/bioinformatics/btac132)
