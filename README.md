@@ -142,6 +142,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2018 - [clonealign](https://github.com/kieranrcampbell/clonealign) - Campbell - gene expression states to clones (scRNA-seq + scDNA-seq (CNV)) - [paper](https://doi.org/10.1101/344309)
 - 2020 - [CiteFuse](https://sydneybiox.github.io/CiteFuse/) - Kim - CITE-seq data analysis [paper](https://doi.org/10.1093/bioinformatics/btaa282)
 - 2021 - [CoSpar](https://cospar.readthedocs.io/) - Wang - infer dynamics by integrating state and lineage information - [paper](https://www.biorxiv.org/content/10.1101/2021.05.06.443026v1)
+- 2025 - [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) - Yang - MCP server enabling spatial transcriptomics analysis via natural language, integrating 60+ methods for spatial domains, deconvolution, cell communication, and trajectory analysis - [docs](https://cafferychen777.github.io/ChatSpatial/)
 - 2025 - [mLLMCelltype](https://github.com/cafferychen777/mLLMCelltype) - Yang - Multi-model framework for single-cell RNA-seq cell type annotation with uncertainty quantification - [paper](https://doi.org/10.1101/2025.04.10.647852)
 
 ### Multi-study correlation or factor analysis
