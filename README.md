@@ -130,6 +130,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2019 - [OmiVAE](https://github.com/zhangxiaoyu11/OmiVAE) - Xiaoyu Zhang -  Integrated Multi-omics Analysis Using Variational Autoencoders - [paper](https://arxiv.org/abs/1908.06278)
 - 2021 - [DeepProg](https://github.com/lanagarmire/DeepProg) - Poirion - DL and ML ensemble + survival prediction - [paper](https://doi.org/10.1186/s13073-021-00930-x)
 - 2021 - [SHAE](https://github.com/BoevaLab/Supervised-hierarchical-autoencoders-for-cancer-survival) - Wissel - Supervised Hierarchical Autoencoder + survival prediction - [preprint](https://doi.org/10.1101/2021.09.16.460589)
+- 2023 - [MOVE](https://github.com/RasmussenLab/MOVE/) - Allesøe - Drug–omics associations + generative deep-learning models - [paper](https://doi.org/10.1038/s41587-022-01520-x)
 
 ### Multi-omics networks
 
