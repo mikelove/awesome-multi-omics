@@ -215,6 +215,7 @@ For brevity, below lists only the first author of multi-omics methods.
 
 - 2017 - [MultiAssayExperiment](https://bioconductor.org/packages/MultiAssayExperiment/) - Ramos - Software for the integration of multi-omics experiments in Bioconductor - [paper](https://doi.org/10.1158/0008-5472.CAN-17-0344).
 - 2021 - [muon](https://github.com/pmbio/muon) - Bredikhin - [Multimodal omics analysis framework](https://doi.org/10.1101/2021.06.01.445670)
+- 2025 - [Omilayers](https://github.com/dkioroglou/omilayers) - Kioroglou - Python package for efficient data management to support multi-omic analysis - [paper](https://doi.org/10.1186/s12859-025-06067-7), [docs](https://omilayers.readthedocs.io/en/latest/)
 
 ## Multi-omics visualization
 
