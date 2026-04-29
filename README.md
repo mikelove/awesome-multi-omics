@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mikelove-awesome-multi-omics-badge.png)](https://mseep.ai/app/mikelove-awesome-multi-omics)
+
 # awesome-multi-omics
 
 A [community-maintained](https://github.com/mikelove/awesome-multi-omics/graphs/contributors) list of software packages for multi-omics data analysis.
