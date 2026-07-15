@@ -151,6 +151,11 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2025 - [mLLMCelltype](https://github.com/cafferychen777/mLLMCelltype) - Yang - Multi-model framework for single-cell RNA-seq cell type annotation with uncertainty quantification - [paper](https://doi.org/10.1101/2025.04.10.647852)
 - 2025 - [FlashDeconv](https://github.com/cafferychen777/flashdeconv) - Yang - High-performance spatial transcriptomics deconvolution using structure-preserving sketching, processes 1M spots in ~3 min - [paper](https://doi.org/10.64898/2025.12.22.696108)
 
+- 2025 - [DeepSpot](https://github.com/ratschlab/DeepSpot) - Nonchev - histology to spatial transcriptomics - [paper](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3)
+- 2025 - [DeepSpot2Cell](https://github.com/ratschlab/DeepSpot2Cell) - Nonchev - virtual single-cell ST - [paper](https://openreview.net/forum?id=ofCkwXQKaz)
+- 2026 - [DeepSpot-M](https://github.com/ratschlab/DeepSpotM) - Nonchev - multimodal virtual ST foundation - [paper](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)
+- 2026 - [AESTETIK](https://github.com/ratschlab/aestetik) - Nonchev - ST topology image autoencoder - [paper](https://doi.org/10.1093/bioinformatics/btag316)
+
 ### Multi-study correlation or factor analysis
 
 - 2016 - [MSFA](https://github.com/rdevito/MSFA) - De Vito - multi-study factor analysis: same features, different samples - [paper](https://arxiv.org/abs/1611.06350)
