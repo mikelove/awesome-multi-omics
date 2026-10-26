@@ -155,6 +155,7 @@ For brevity, below lists only the first author of multi-omics methods.
 
 - 2025 - [DeepSpot](https://github.com/ratschlab/DeepSpot) - Nonchev - histology to spatial transcriptomics - [paper](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3)
 - 2025 - [DeepSpot2Cell](https://github.com/ratschlab/DeepSpot2Cell) - Nonchev - virtual single-cell ST - [paper](https://openreview.net/forum?id=ofCkwXQKaz)
+- 2025 - [CelLink](https://github.com/liu-bioinfo-lab/CelLink) - Luo - scRNA-seq + spatial proteomics, optimal transport - [paper](https://doi.org/10.1093/nar/gkaf1270)
 - 2026 - [DeepSpot-M](https://github.com/ratschlab/DeepSpotM) - Nonchev - multimodal virtual ST foundation - [paper](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)
 - 2026 - [AESTETIK](https://github.com/ratschlab/aestetik) - Nonchev - ST topology image autoencoder - [paper](https://doi.org/10.1093/bioinformatics/btag316)
 
