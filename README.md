@@ -157,6 +157,9 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2025 - [DeepSpot2Cell](https://github.com/ratschlab/DeepSpot2Cell) - Nonchev - virtual single-cell ST - [paper](https://openreview.net/forum?id=ofCkwXQKaz)
 - 2025 - [CelLink](https://github.com/liu-bioinfo-lab/CelLink) - Luo - scRNA-seq + spatial proteomics, optimal transport - [paper](https://doi.org/10.1093/nar/gkaf1270)
 - 2026 - [DeepSpot-M](https://github.com/ratschlab/DeepSpotM) - Nonchev - multimodal virtual ST foundation - [paper](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)
+- 2026 - [DeepSpot-M kidney](https://github.com/ratschlab/projects2026-kidney-kpmp-analysis) - Nonchev - virtual ST from H&E for KPMP kidney biopsies, linked to kidney disease programs - [paper](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)
+- 2026 - [KPMP virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/KPMP_virtual_spatial_transcriptomics_atlas) - Nonchev - dataset: DeepSpot-M predicted ST for 1,534 kidney biopsy H&E slides - [paper](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)
+- 2026 - [KPMP Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/KPMP_Xenium_virtual_spatial_transcriptomics) - Nonchev - dataset: DeepSpot-M predicted ST for 49 Xenium kidney sections (~1.64M cells) - [paper](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)
 - 2026 - [AESTETIK](https://github.com/ratschlab/aestetik) - Nonchev - ST topology image autoencoder - [paper](https://doi.org/10.1093/bioinformatics/btag316)
 
 ### Multi-study correlation or factor analysis
